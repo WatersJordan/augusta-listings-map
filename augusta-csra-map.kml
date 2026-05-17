@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLink>
+    <name>Augusta CSRA Commercial Listings</name>
+    <description>Auto-updated daily. Covers Jordan Trotter, Meybohm, Sherman &amp; Hemstreet, and Southeastern.</description>
+    <open>1</open>
+    <refreshVisibility>0</refreshVisibility>
+    <flyToView>0</flyToView>
+    <Link>
+      <href>https://raw.githubusercontent.com/WatersJordan/augusta-listings-map/main/augusta_listings.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>86400</refreshInterval>
+    </Link>
+  </NetworkLink>
+</kml>
