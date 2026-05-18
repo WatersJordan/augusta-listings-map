@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated May 17, 2026 | 519 active listings across 3 companies</description>
+  <description>Updated May 18, 2026 | 537 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -4208,6 +4208,154 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9709108,33.4947039,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Southeastern (18)</name>
+    <open>0</open>
+    <Placemark>
+      <name>2441  Whiskey Road</name>
+      <description><![CDATA[<b>Address:</b> 2441  Whiskey Road, Aiken, SC <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 30 Acres<br/><b>Agent:</b> Long Senior<br/><b>Email:</b> jason.long@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/aiken-mall/">https://www.southeastern.company/property/aiken-mall/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-81.7154899,33.5091604,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>115 Robert C Daniel Jr Pky</name>
+      <description><![CDATA[<b>Address:</b> 115 Robert C Daniel Jr Pky, Augusta, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Agent:</b> Pam Parrish<br/><b>Email:</b> pam.parrish@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/social-security-building/">https://www.southeastern.company/property/social-security-building/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0776031,33.4929027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>206 Milledge Road</name>
+      <description><![CDATA[<b>Address:</b> 206 Milledge Road, Augusta, GA <br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Agent:</b> Long Senior<br/><b>Email:</b> jason.long@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/office-building/">https://www.southeastern.company/property/office-building/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.006021,33.488276,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2590 Gordon Highway</name>
+      <description><![CDATA[<b>Address:</b> 2590 Gordon Highway, Augusta, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 65 Acres<br/><b>Agent:</b> Craig Sims<br/><b>Email:</b> craig.sims@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/2590-gordon-highway/">https://www.southeastern.company/property/2590-gordon-highway/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.1227351,33.4416796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2743 Perimeter Parkway</name>
+      <description><![CDATA[<b>Address:</b> 2743 Perimeter Parkway, Augusta, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 6 Acres<br/><b>Email:</b> Jonathan.crawford@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/augusta-corporate-center/">https://www.southeastern.company/property/augusta-corporate-center/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0870714,33.491806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2801 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 2801 Washington Rd, Augusta, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Agent:</b> Senn Senior<br/><b>Email:</b> Tyler.Martin@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/washington-walk/">https://www.southeastern.company/property/washington-walk/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0293563,33.511944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2803 Wrightsboro Rd</name>
+      <description><![CDATA[<b>Address:</b> 2803 Wrightsboro Rd, Augusta, GA <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 16 Acres<br/><b>Agent:</b> Mills Senior<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/daniel-village/">https://www.southeastern.company/property/daniel-village/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0352608,33.470536,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2805 Washington Rd (Five Guys) 2805 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 2805 Washington Rd (Five Guys) 2805 Washington Rd, Augusta, GA <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Agent:</b> Seeger Senior<br/><b>Email:</b> rhodes.seeger@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/2805-washington-rd-five-guys/">https://www.southeastern.company/property/2805-washington-rd-five-guys/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.045638,33.5124399,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2807 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 2807 Washington Rd, Augusta, GA <br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Agent:</b> Seeger Senior<br/><b>Email:</b> rhodes.seeger@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/2807-washington-rd/">https://www.southeastern.company/property/2807-washington-rd/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0293578,33.5100801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2833 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 2833 Washington Rd, Augusta, GA <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Agent:</b> Senn Senior<br/><b>Email:</b> chris.senn@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/fairway-square-shopping-center/">https://www.southeastern.company/property/fairway-square-shopping-center/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.033763,33.510852,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3611 Wheeler Rd</name>
+      <description><![CDATA[<b>Address:</b> 3611 Wheeler Rd, Augusta, GA <br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 20 Acres<br/><b>Agent:</b> Lee Neel<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/prime-development-opportunity/">https://www.southeastern.company/property/prime-development-opportunity/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0972159,33.482865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3945 Harper Franklin Avenue</name>
+      <description><![CDATA[<b>Address:</b> 3945 Harper Franklin Avenue, Augusta, GA <br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 2 Acres<br/><b>Email:</b> Jonathan.crawford@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/3945-harper-franklin-avenue/">https://www.southeastern.company/property/3945-harper-franklin-avenue/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.1156542,33.4492292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4132 Madeline Drive 4132 Madeline Dr</name>
+      <description><![CDATA[<b>Address:</b> 4132 Madeline Drive 4132 Madeline Dr, Augusta, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1 Acres<br/><b>Email:</b> Jonathan.crawford@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/4132-madeline-drive/">https://www.southeastern.company/property/4132-madeline-drive/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.1179218,33.4517057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4336 Washington Road</name>
+      <description><![CDATA[<b>Address:</b> 4336 Washington Road, Evans, GA <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1 Acres<br/><b>Agent:</b> Long Senior<br/><b>Email:</b> jason.long@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/shoppes-at-pheasant-run/">https://www.southeastern.company/property/shoppes-at-pheasant-run/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.131094,33.539048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4446 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 4446 Washington Rd, Evans, GA <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Agent:</b> Pam Parrish<br/><b>Email:</b> pam.parrish@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/shoppes-camelot/">https://www.southeastern.company/property/shoppes-camelot/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.1418981,33.5442767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>850 Ronald Regan drive</name>
+      <description><![CDATA[<b>Address:</b> 850 Ronald Regan drive, Evans, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Agent:</b> Mills Executive<br/><b>Email:</b> matt.mills@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/850-ronald-regan-drive/">https://www.southeastern.company/property/850-ronald-regan-drive/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.1343013,33.5438313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E Robinson Ave @ Woodward Dr</name>
+      <description><![CDATA[<b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 2 Acres<br/><b>Agent:</b> Long Senior<br/><b>Email:</b> jason.long@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/e-robinson-ave-woodward-dr/">https://www.southeastern.company/property/e-robinson-ave-woodward-dr/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.1981764,33.4504157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1069 Edgefield Rd</name>
+      <description><![CDATA[<b>Address:</b> 1069 Edgefield Rd, North Augusta, SC <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 4 Acres<br/><b>Agent:</b> Kim Evans<br/><b>Email:</b> kim.evans@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/sweetwater-square/">https://www.southeastern.company/property/sweetwater-square/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-81.9559169,33.5111424,0</coordinates>
       </Point>
     </Placemark>
   </Folder>
