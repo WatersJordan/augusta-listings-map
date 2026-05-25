@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated May 21, 2026 | 552 active listings across 4 companies</description>
+  <description>Updated May 25, 2026 | 555 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -2628,7 +2628,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (169)</name>
+    <name>Meybohm (170)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -3823,6 +3823,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>307 Commerce Dr</name>
+      <description><![CDATA[<b>Address:</b> 307 Commerce Dr, Martinez, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 6,000 SF<br/><b>Agent:</b> Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1649443">https://meybohmcre.com/property-search?propertyId=1649443</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.0706934,33.517693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3936 Columbia Rd</name>
       <description><![CDATA[<b>Address:</b> 3936 Columbia Rd, Martinez, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 4,160 SF<br/><b>Price:</b> $1,300,000<br/><b>Agent:</b> Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1522723">https://meybohmcre.com/property-search?propertyId=1522723</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -3984,7 +3992,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (43)</name>
+    <name>Sherman &amp; Hemstreet (45)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -4179,6 +4187,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3928 Wrightsboro Rd</name>
+      <description><![CDATA[<b>Address:</b> 3928 Wrightsboro Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.41 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602890-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602890-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.123024,33.469941,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>415 Laney Walker Boulevard Ext</name>
       <description><![CDATA[<b>Address:</b> 415 Laney Walker Boulevard Ext, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 17.14 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -4224,6 +4240,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9636988,33.4732546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>700 Scott Nixon Memorial Dr</name>
+      <description><![CDATA[<b>Address:</b> 700 Scott Nixon Memorial Dr, Augusta, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.77 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602876-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602876-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.087655,33.497363,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
