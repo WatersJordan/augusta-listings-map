@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated May 28, 2026 | 562 active listings across 4 companies</description>
+  <description>Updated May 29, 2026 | 568 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -4000,7 +4000,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (51)</name>
+    <name>Sherman &amp; Hemstreet (57)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -4008,6 +4008,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.6891965,33.5966153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1002 Telfair St</name>
+      <description><![CDATA[<b>Address:</b> 1002 Telfair St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 23,638 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9718966,33.472993,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4203,6 +4211,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3600 Belair Rd</name>
+      <description><![CDATA[<b>Address:</b> 3600 Belair Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 4.92 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602796-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602796-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.091442,33.463768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3643 Walton Way Ext Bldg 4</name>
       <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 300 - 400 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -4243,6 +4259,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3940 Wrightsboro Rd</name>
+      <description><![CDATA[<b>Address:</b> 3940 Wrightsboro Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.56 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602815-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602815-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1245289,33.4704179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>415 Laney Walker Boulevard Ext</name>
       <description><![CDATA[<b>Address:</b> 415 Laney Walker Boulevard Ext, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 17.14 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -4268,7 +4292,7 @@
     </Placemark>
     <Placemark>
       <name>431 Walker St</name>
-      <description><![CDATA[<b>Address:</b> 431 Walker St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 300 - 660 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1452638-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1452638-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 431 Walker St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1452638-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1452638-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9601725,33.4687822,0</coordinates>
@@ -4307,6 +4331,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>0 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 0 Washington Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 21.11 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602627-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602627-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1508114,33.5493996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>0 Wellington Dr</name>
       <description><![CDATA[<b>Address:</b> 0 Wellington Dr, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 1.14 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1603010-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1603010-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -4336,6 +4368,22 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.2221791,33.5952942,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>868 Blanchard Road</name>
+      <description><![CDATA[<b>Address:</b> 868 Blanchard Road, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.93 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602582-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602582-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1625566,33.5569447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4329 Wrightsboro Rd</name>
+      <description><![CDATA[<b>Address:</b> 4329 Wrightsboro Rd, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 3.43 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602675-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602675-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.132537,33.4756829,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
