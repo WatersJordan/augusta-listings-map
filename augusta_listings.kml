@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 01, 2026 | 887 active listings across 4 companies</description>
+  <description>Updated June 02, 2026 | 887 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -6136,14 +6136,6 @@
     </Placemark>
     <Placemark>
       <name>0 Market View Pkwy</name>
-      <description><![CDATA[<b>Address:</b> 0 Market View Pkwy, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 8,400 SF<br/><b>Agent:</b> Charlie Moye, Brian Sweeting<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1570011">https://meybohmcre.com/property-search?propertyId=1570011</a>]]></description>
-      <styleUrl>#Meybohm</styleUrl>
-      <Point>
-        <coordinates>-82.1938476,33.5749014,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>0 Market View Pkwy</name>
       <description><![CDATA[<b>Address:</b> 0 Market View Pkwy, Evans, GA 30809<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $850,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng., Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1318665">https://meybohmcre.com/property-search?propertyId=1318665</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
@@ -6169,6 +6161,14 @@
     <Placemark>
       <name>00 Market View Pkwy</name>
       <description><![CDATA[<b>Address:</b> 00 Market View Pkwy, Evans, GA 30809<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Brian Sweeting, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1545138">https://meybohmcre.com/property-search?propertyId=1545138</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.1938476,33.5749014,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1 Market View Pkwy</name>
+      <description><![CDATA[<b>Address:</b> 1 Market View Pkwy, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 8,400 SF<br/><b>Agent:</b> Charlie Moye, Brian Sweeting<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1570011">https://meybohmcre.com/property-search?propertyId=1570011</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.1938476,33.5749014,0</coordinates>
@@ -6860,7 +6860,7 @@
     </Placemark>
     <Placemark>
       <name>630 Ellis Street</name>
-      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 165 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 150 - 165 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9636988,33.4732546,0</coordinates>
