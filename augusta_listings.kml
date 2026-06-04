@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 03, 2026 | 951 active listings across 4 companies</description>
+  <description>Updated June 04, 2026 | 954 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -5684,7 +5684,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (171)</name>
+    <name>Meybohm (174)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -6068,6 +6068,22 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.7386123,33.5072145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>642 York Street Northeast</name>
+      <description><![CDATA[<b>Address:</b> 642 York Street Northeast, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 11,266 SF<br/><b>Price:</b> $600,000<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1652711">https://meybohmcre.com/property-search?propertyId=1652711</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.7109962,33.5695375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>642 York Street Northeast</name>
+      <description><![CDATA[<b>Address:</b> 642 York Street Northeast, Aiken, SC 29801<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 11,266 SF<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1651512">https://meybohmcre.com/property-search?propertyId=1651512</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.7109962,33.5695375,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -6684,6 +6700,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.1938476,33.5749014,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1 Randolph Court</name>
+      <description><![CDATA[<b>Address:</b> 1 Randolph Court, Evans, GA 30809<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 10,400 SF<br/><b>Price:</b> $2,065,000<br/><b>Cap Rate:</b> 6.63%<br/><b>Agent:</b> Luke Henderson, Brian Sweeting, Jordan Collier<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1653447">https://meybohmcre.com/property-search?propertyId=1653447</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.114903,33.5362297,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -7476,7 +7500,7 @@
     </Placemark>
     <Placemark>
       <name>3506 Professional Circle</name>
-      <description><![CDATA[<b>Address:</b> 3506 Professional Circle, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,400 - 3,230 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=235407-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=235407-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3506 Professional Circle, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,400 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=235407-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=235407-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0752592,33.5329212,0</coordinates>
