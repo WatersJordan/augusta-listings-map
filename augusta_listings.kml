@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 08, 2026 | 1179 active listings across 4 companies</description>
+  <description>Updated June 08, 2026 | 1180 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8880,7 +8880,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (58)</name>
+    <name>Sherman &amp; Hemstreet (59)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9280,6 +9280,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1925006,33.4289705,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>702 Leela Ct</name>
+      <description><![CDATA[<b>Address:</b> 702 Leela Ct, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 0.18 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1527671-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1527671-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.13860609999999,33.473888,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
