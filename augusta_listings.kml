@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 08, 2026 | 1180 active listings across 4 companies</description>
+  <description>Updated June 09, 2026 | 1181 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8880,7 +8880,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (59)</name>
+    <name>Sherman &amp; Hemstreet (60)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9344,6 +9344,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.947621,33.527557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>340 Edgefield Rd</name>
+      <description><![CDATA[<b>Address:</b> 340 Edgefield Rd, North Augusta, SC 29841<br/><b>Status:</b> Active<br/><b>Property Type:</b> Restaurant<br/><b>Size:</b> 3,706 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1456480-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1456480-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9456196,33.5313014,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
