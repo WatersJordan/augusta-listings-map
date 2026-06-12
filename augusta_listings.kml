@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 11, 2026 | 1184 active listings across 4 companies</description>
+  <description>Updated June 12, 2026 | 1185 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8240,7 +8240,7 @@
     </Placemark>
     <Placemark>
       <name>2385 Tobacco Road and 4202 White Pine Court</name>
-      <description><![CDATA[<b>Address:</b> 2385 Tobacco Road and 4202 White Pine Court, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $300,000<br/><b>Agent:</b> David Hogg<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1143796">https://meybohmcre.com/property-search?propertyId=1143796</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2385 Tobacco Road and 4202 White Pine Court, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $290,000<br/><b>Agent:</b> David Hogg<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1143796">https://meybohmcre.com/property-search?propertyId=1143796</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.0538998,33.3741704,0</coordinates>
@@ -8880,7 +8880,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (63)</name>
+    <name>Sherman &amp; Hemstreet (64)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -8972,7 +8972,7 @@
     </Placemark>
     <Placemark>
       <name>2215 Tobacco Road</name>
-      <description><![CDATA[<b>Address:</b> 2215 Tobacco Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 2,700 - 5,200 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2215 Tobacco Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 44,240 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0326169,33.374735,0</coordinates>
@@ -9053,6 +9053,14 @@
     <Placemark>
       <name>2755 Barton Chapel Road</name>
       <description><![CDATA[<b>Address:</b> 2755 Barton Chapel Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Medical<br/><b>Size:</b> 2,931 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1629387-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1629387-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0795692,33.4191747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2755 Barton Chapel Road</name>
+      <description><![CDATA[<b>Address:</b> 2755 Barton Chapel Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Medical<br/><b>Size:</b> 2,931 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1629387-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1629387-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0795692,33.4191747,0</coordinates>
