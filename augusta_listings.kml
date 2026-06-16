@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 15, 2026 | 1185 active listings across 4 companies</description>
+  <description>Updated June 16, 2026 | 1189 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7484,7 +7484,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (174)</name>
+    <name>Meybohm (175)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -7828,6 +7828,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.69442819999999,33.4789349,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3720 Richland Ave W</name>
+      <description><![CDATA[<b>Address:</b> 3720 Richland Ave W, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 13,094 SF<br/><b>Price:</b> $2,250,000<br/><b>Cap Rate:</b> 6.93%<br/><b>Agent:</b> Luke Henderson, Brian Sweeting, Jordan Collier<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1657007">https://meybohmcre.com/property-search?propertyId=1657007</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.7699863,33.5640217,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -8880,7 +8888,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (64)</name>
+    <name>Sherman &amp; Hemstreet (67)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -8904,6 +8912,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9718966,33.472993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1212 Broad Street</name>
+      <description><![CDATA[<b>Address:</b> 1212 Broad Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Restaurant<br/><b>Size:</b> 9,900 SF<br/><b>Agent:</b> Matt Aitken<br/><b>Phone:</b> 706.288.1079 x314<br/><b>Email:</b> maitken@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=661187-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=661187-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.973233,33.4776114,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9140,7 +9156,7 @@
     </Placemark>
     <Placemark>
       <name>3643 Walton Way Ext Bldg 4</name>
-      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 300 - 400 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0751948,33.4923394,0</coordinates>
@@ -9160,6 +9176,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.10360899999999,33.469735,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3778 Peach Orchard</name>
+      <description><![CDATA[<b>Address:</b> 3778 Peach Orchard, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.73 Acres<br/><b>Agent:</b> Zack Hartman<br/><b>Phone:</b> 706.922.0395<br/><b>Email:</b> zhartman@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1030699-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1030699-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.04462699999999,33.356076,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9219,6 +9243,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>5202 Old Mike Padgett Highway</name>
+      <description><![CDATA[<b>Address:</b> 5202 Old Mike Padgett Highway, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Single Family Rental Portfolio<br/><b>Size:</b> 9,604 SF<br/><b>Agent:</b> Zack Hartman<br/><b>Phone:</b> 706.922.0395<br/><b>Email:</b> zhartman@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1605373-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1605373-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.951137,33.2451409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>525 Broad St</name>
       <description><![CDATA[<b>Address:</b> 525 Broad St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 4,494 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1415445-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1415445-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9228,7 +9260,7 @@
     </Placemark>
     <Placemark>
       <name>630 Ellis Street</name>
-      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 150 - 165 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 89 - 165 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9636988,33.4732546,0</coordinates>
