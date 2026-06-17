@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 16, 2026 | 1189 active listings across 4 companies</description>
+  <description>Updated June 17, 2026 | 1192 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8888,7 +8888,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (67)</name>
+    <name>Sherman &amp; Hemstreet (70)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9307,6 +9307,22 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>402 Town Park BLVD</name>
+      <description><![CDATA[<b>Address:</b> 402 Town Park BLVD, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 0.89 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=913942-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=913942-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.133684,33.529057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4431 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 4431 Washington Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 2,015 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204934-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204934-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.13961599999999,33.5439789,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4752 Washington Rd</name>
       <description><![CDATA[<b>Address:</b> 4752 Washington Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Free Standing Building<br/><b>Size:</b> 1,900 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1589547-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1589547-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9392,6 +9408,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.13288229999999,33.507186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1215 Knox Avenue</name>
+      <description><![CDATA[<b>Address:</b> 1215 Knox Avenue, North Augusta, SC 29841<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 6,000 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=215170-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=215170-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9577647,33.5027853,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
