@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 17, 2026 | 1192 active listings across 4 companies</description>
+  <description>Updated June 18, 2026 | 1194 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8888,7 +8888,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (70)</name>
+    <name>Sherman &amp; Hemstreet (71)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -8988,7 +8988,7 @@
     </Placemark>
     <Placemark>
       <name>2215 Tobacco Road</name>
-      <description><![CDATA[<b>Address:</b> 2215 Tobacco Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 44,240 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2215 Tobacco Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 40,990 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0326169,33.374735,0</coordinates>
@@ -9450,9 +9450,17 @@
         <coordinates>-81.9709108,33.4947039,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>616 Edgefield Rd.</name>
+      <description><![CDATA[<b>Address:</b> 616 Edgefield Rd., North Augusta, SC 29841<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,250 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=306384-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=306384-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.94167499999999,33.5425345,0</coordinates>
+      </Point>
+    </Placemark>
   </Folder>
   <Folder>
-    <name>Southeastern (18)</name>
+    <name>Southeastern (19)</name>
     <open>0</open>
     <Placemark>
       <name>2441  Whiskey Road</name>
@@ -9588,6 +9596,14 @@
       <styleUrl>#Southeastern</styleUrl>
       <Point>
         <coordinates>-82.1981764,33.4504157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1041 Edgefield Rd</name>
+      <description><![CDATA[<b>Address:</b> 1041 Edgefield Rd, North Augusta, SC <br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Jonathan.crawford@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/1041-edgefield-rd/">https://www.southeastern.company/property/1041-edgefield-rd/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-81.9350255,33.5723011,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
