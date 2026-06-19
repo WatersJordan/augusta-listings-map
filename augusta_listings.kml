@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 18, 2026 | 1194 active listings across 4 companies</description>
+  <description>Updated June 19, 2026 | 1208 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8888,7 +8888,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (71)</name>
+    <name>Sherman &amp; Hemstreet (85)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -8896,6 +8896,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.6891965,33.5966153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Physicians Drive </name>
+      <description><![CDATA[<b>Address:</b> Physicians Drive , Aiken, SC 29801<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 0.8 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=265637-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=265637-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.762697,33.57141,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -8912,6 +8920,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9718966,33.472993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1201 George C Wilson Dr</name>
+      <description><![CDATA[<b>Address:</b> 1201 George C Wilson Dr, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 800 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1643188-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1643188-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0877836,33.4817242,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -8955,11 +8971,35 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>1700 Magnolia Way</name>
+      <description><![CDATA[<b>Address:</b> 1700 Magnolia Way, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1.08 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1494654-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1494654-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.12830799999999,33.476528,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1705 Dixon Airline Rd</name>
+      <description><![CDATA[<b>Address:</b> 1705 Dixon Airline Rd, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 82.54 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204658-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204658-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.988973,33.385595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1711 Hicks St</name>
       <description><![CDATA[<b>Address:</b> 1711 Hicks St, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 0.52 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1435511-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1435511-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.992589,33.48145100000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1711 Magnolia Way</name>
+      <description><![CDATA[<b>Address:</b> 1711 Magnolia Way, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 0.85 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1495118-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1495118-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.12724800000001,33.475946,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9040,6 +9080,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0422035,33.5097478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2601 Deans Bridge Road</name>
+      <description><![CDATA[<b>Address:</b> 2601 Deans Bridge Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 2,800 - 3,000 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1651596-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1651596-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0204751,33.44233000000001,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9144,6 +9192,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0781058,33.48430880000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3558 Windsor Spring Rd</name>
+      <description><![CDATA[<b>Address:</b> 3558 Windsor Spring Rd, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,200 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204962-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204962-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0664627,33.3858171,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9275,6 +9331,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>802 Greene St</name>
+      <description><![CDATA[<b>Address:</b> 802 Greene St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Church<br/><b>Size:</b> 16,228 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320026-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320026-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9668202,33.4729546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>0 Washington Rd</name>
       <description><![CDATA[<b>Address:</b> 0 Washington Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 6.08 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1603000-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1603000-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9315,11 +9379,35 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>4351-4359 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 4351-4359 Washington Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,415 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204931-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204931-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1317832,33.5412309,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4431 Washington Rd</name>
       <description><![CDATA[<b>Address:</b> 4431 Washington Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 2,015 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204934-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204934-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.13961599999999,33.5439789,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4435 Washington Road</name>
+      <description><![CDATA[<b>Address:</b> 4435 Washington Road, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,200 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=213721-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=213721-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1389399,33.5448076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4460 Washington Road</name>
+      <description><![CDATA[<b>Address:</b> 4460 Washington Road, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 2,400 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=703350-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=703350-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1438668,33.5443361,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9336,6 +9424,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.2221791,33.5952942,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>601 N Belair Square</name>
+      <description><![CDATA[<b>Address:</b> 601 N Belair Square, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,600 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=788810-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=788810-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.12779739999999,33.5393142,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9360,6 +9456,22 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1925006,33.4289705,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5313 Wrightsboro Rd</name>
+      <description><![CDATA[<b>Address:</b> 5313 Wrightsboro Rd, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 0.92 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1639942-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1639942-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.2089037,33.4554348,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5434 - 5440 Columbia Road</name>
+      <description><![CDATA[<b>Address:</b> 5434 - 5440 Columbia Road, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 21.79 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1573918-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1573918-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.2264701,33.5159381,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
