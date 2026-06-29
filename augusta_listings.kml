@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 28, 2026 | 1208 active listings across 4 companies</description>
+  <description>Updated June 29, 2026 | 1246 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (929)</name>
+    <name>Jordan Trotter (955)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -61,6 +61,14 @@
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
       <description><![CDATA[<b>Address:</b> 0 E Frontage Rd, Aiken, SC  29805, Aiken, SC 29805<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 86.95 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1173303-sale/">http://www.jordantrotter.com/properties/1173303-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.6430694,33.6761683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0 E Frontage Rd, Aiken, SC  29805</name>
+      <description><![CDATA[<b>Address:</b> 0 E Frontage Rd, Aiken, SC  29805, Aiken, SC 29805<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 86.95 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/0-E-frontage-road-aiken-sc/">http://www.jordantrotter.com/properties/0-E-frontage-road-aiken-sc/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.6430694,33.6761683,0</coordinates>
@@ -221,6 +229,14 @@
     <Placemark>
       <name>2445 Charleston Hwy, Aiken, SC  29801</name>
       <description><![CDATA[<b>Address:</b> 2445 Charleston Hwy, Aiken, SC  29801, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.91 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/549588-sale/">http://www.jordantrotter.com/properties/549588-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.6782338,33.5451466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2445 Charleston Hwy, Aiken, SC  29801</name>
+      <description><![CDATA[<b>Address:</b> 2445 Charleston Hwy, Aiken, SC  29801, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.91 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2445-charleston-highway-aiken-sc/">http://www.jordantrotter.com/properties/2445-charleston-highway-aiken-sc/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.6782338,33.5451466,0</coordinates>
@@ -507,6 +523,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>1024 Telfair St, Augusta, GA  30901</name>
+      <description><![CDATA[<b>Address:</b> 1024 Telfair St, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Warehouse<br/><b>Size:</b> 8,490 - 22,400 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1024-telfair-st-augusta-lease/">http://www.jordantrotter.com/properties/1024-telfair-st-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9722956,33.4734187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1025 Broad Street, Augusta, GA  30901</name>
       <description><![CDATA[<b>Address:</b> 1025 Broad Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 7,650 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1025-broad-street-augusta-lease/">http://www.jordantrotter.com/properties/1025-broad-street-augusta-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -709,6 +733,14 @@
     <Placemark>
       <name>1102 Trust Avenue, Augusta, GA  30909</name>
       <description><![CDATA[<b>Address:</b> 1102 Trust Avenue, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2.58 Acres<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1102-Trust-Avenue-Augusta-GA/">http://www.jordantrotter.com/properties/1102-Trust-Avenue-Augusta-GA/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.07583919999999,33.4856153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1102 Trust Avenue, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 1102 Trust Avenue, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.15 Acres<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1102-trust-avenue-augusta-lease/">http://www.jordantrotter.com/properties/1102-trust-avenue-augusta-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.07583919999999,33.4856153,0</coordinates>
@@ -1083,6 +1115,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>1348 Broad Street, Augusta, GA  30901</name>
+      <description><![CDATA[<b>Address:</b> 1348 Broad Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Church<br/><b>Size:</b> 151,240 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1348-broad-street-augusta-ga/">http://www.jordantrotter.com/properties/1348-broad-street-augusta-ga/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.97689319999999,33.4787851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1430 Flowing Wells Rd., Augusta, GA  30909</name>
       <description><![CDATA[<b>Address:</b> 1430 Flowing Wells Rd., Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Commercial/ Res Development<br/><b>Size:</b> 24.03 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=776401-sale">http://www.jordantrotter.com/properties/?propertyId=776401-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -1109,6 +1149,14 @@
     <Placemark>
       <name>1430 Flowing Wells Road, Augusta, GA  30909</name>
       <description><![CDATA[<b>Address:</b> 1430 Flowing Wells Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2.25 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/781675-sale/">http://www.jordantrotter.com/properties/781675-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.104565,33.4713928,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1430 Flowing Wells Road, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 1430 Flowing Wells Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2.25 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1430-flowing-wells-road-augusta-ga/">http://www.jordantrotter.com/properties/1430-flowing-wells-road-augusta-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.104565,33.4713928,0</coordinates>
@@ -1651,6 +1699,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>211 Sand Bar Ferry Rd, Augusta, GA  30901</name>
+      <description><![CDATA[<b>Address:</b> 211 Sand Bar Ferry Rd, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 7,990 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/211-sand-bar-ferry-rd-augusta-lease/">http://www.jordantrotter.com/properties/211-sand-bar-ferry-rd-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9428688,33.4650943,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2121 Martin Luther King Jr Blvd, Augusta, GA  30909</name>
       <description><![CDATA[<b>Address:</b> 2121 Martin Luther King Jr Blvd, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,361 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1513007-sale">http://www.jordantrotter.com/properties/?propertyId=1513007-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -1691,6 +1747,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2126 Windsor Spring Road, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 2126 Windsor Spring Road, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.56 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2126-windsor-spring-road-augusta-ga/">http://www.jordantrotter.com/properties/2126-windsor-spring-road-augusta-ga/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.0306389,33.406334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2136 Windsor Spring Road, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 2136 Windsor Spring Road, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.5 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1027799-sale">http://www.jordantrotter.com/properties/?propertyId=1027799-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -1701,6 +1765,14 @@
     <Placemark>
       <name>2136 Windsor Spring Road, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 2136 Windsor Spring Road, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.5 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1027799-sale/">http://www.jordantrotter.com/properties/1027799-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.03197,33.406365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2136 Windsor Spring Road, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 2136 Windsor Spring Road, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.5 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2136-windsor-spring-road-augusta-ga/">http://www.jordantrotter.com/properties/2136-windsor-spring-road-augusta-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.03197,33.406365,0</coordinates>
@@ -1840,6 +1912,22 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.009149,33.429154,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2423 Mike Padgett Highway, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 2423 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,000 - 348,480 SF<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2423-Mike-Padgett-Highway-Augusta-GA/">http://www.jordantrotter.com/properties/2423-Mike-Padgett-Highway-Augusta-GA/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.009149,33.429154,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>245 Bobby Jones Expressway, Augusta, GA  30907</name>
+      <description><![CDATA[<b>Address:</b> 245 Bobby Jones Expressway, Augusta, GA  30907, Augusta, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Free Standing Building<br/><b>Size:</b> 9,200 SF<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/245-bobby-jones-expressway-augusta-lease/">http://www.jordantrotter.com/properties/245-bobby-jones-expressway-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.09077239999999,33.504642,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2195,6 +2283,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2848 Washington Rd, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 2848 Washington Rd, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 0.67 Acres<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2848-washington-rd-augusta-lease/">http://www.jordantrotter.com/properties/2848-washington-rd-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.0362361,33.5107059,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2900 Deans Bridge Rd, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 2900 Deans Bridge Rd, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 4.56 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1488906-sale">http://www.jordantrotter.com/properties/?propertyId=1488906-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -2435,6 +2531,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3317 Perkins Road, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 3317 Perkins Road, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 11,940 SF<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3317-perkins-road-augusta-lease/">http://www.jordantrotter.com/properties/3317-perkins-road-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.99435199999999,33.3961455,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3350 Benson Road, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 3350 Benson Road, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 141.94 Acres<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1242556-sale">http://www.jordantrotter.com/properties/?propertyId=1242556-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -2613,6 +2717,14 @@
     <Placemark>
       <name>3570 Mike Padgett Highway, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 3570 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 16 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1030387-sale/">http://www.jordantrotter.com/properties/1030387-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.99865400000002,33.377747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3570 Mike Padgett Highway, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 3570 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 16 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3570-mike-padgett-highway-augusta-ga/">http://www.jordantrotter.com/properties/3570-mike-padgett-highway-augusta-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.99865400000002,33.377747,0</coordinates>
@@ -3043,6 +3155,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3860 Old Waynesboro Rd, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 3860 Old Waynesboro Rd, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 16.69 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3860-old-waynesboro-road-augusta-ga/">http://www.jordantrotter.com/properties/3860-old-waynesboro-road-augusta-ga/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9987932,33.3545337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3863 Mike Padgett Highway, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 3863 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 47 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=846701-sale">http://www.jordantrotter.com/properties/?propertyId=846701-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -3053,6 +3173,14 @@
     <Placemark>
       <name>3863 Mike Padgett Highway, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 3863 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 47 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/846701-sale/">http://www.jordantrotter.com/properties/846701-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.98505569999999,33.3544518,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3863 Mike Padgett Highway, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 3863 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 47 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3863-mike-padgett-highway-augusta-ga/">http://www.jordantrotter.com/properties/3863-mike-padgett-highway-augusta-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.98505569999999,33.3544518,0</coordinates>
@@ -3341,6 +3469,14 @@
     <Placemark>
       <name>4159 Mike Padgett Highway, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 4159 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Manufacturing<br/><b>Size:</b> 15,140 SF<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1557895-sale/">http://www.jordantrotter.com/properties/1557895-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.967615,33.33594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4159 Mike Padgett Highway, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 4159 Mike Padgett Highway, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Manufacturing<br/><b>Size:</b> 15,140 SF<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4159-Mike-Padgett-Highway-Augusta-GA/">http://www.jordantrotter.com/properties/4159-Mike-Padgett-Highway-Augusta-GA/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.967615,33.33594,0</coordinates>
@@ -4013,6 +4149,14 @@
     <Placemark>
       <name>431 W Columbia Avenue, Batesburg, SC  29006</name>
       <description><![CDATA[<b>Address:</b> 431 W Columbia Avenue, Batesburg, SC  29006, Batesburg, SC 29006<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.43 Acres<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/993283-sale/">http://www.jordantrotter.com/properties/993283-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.5443229,33.9051534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>431 W Columbia Avenue, Batesburg, SC  29006</name>
+      <description><![CDATA[<b>Address:</b> 431 W Columbia Avenue, Batesburg, SC  29006, Batesburg, SC 29006<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.43 Acres<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/431-w-columbia-avenue-batesburg-sc/">http://www.jordantrotter.com/properties/431-w-columbia-avenue-batesburg-sc/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.5443229,33.9051534,0</coordinates>
@@ -5011,6 +5155,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>0 John Huffman Way, Grovetown, GA  30813</name>
+      <description><![CDATA[<b>Address:</b> 0 John Huffman Way, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1.8 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/0-john-huffman-way-grovetown-ga/">http://www.jordantrotter.com/properties/0-john-huffman-way-grovetown-ga/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1947927,33.4639828,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>0 Whiskey Road, Grovetown, GA  30813</name>
       <description><![CDATA[<b>Address:</b> 0 Whiskey Road, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 5.7 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=984502-sale">http://www.jordantrotter.com/properties/?propertyId=984502-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -5069,6 +5221,14 @@
     <Placemark>
       <name>00 John Huffman Way, Grovetown, GA  30813</name>
       <description><![CDATA[<b>Address:</b> 00 John Huffman Way, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1.76 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1053712-sale/">http://www.jordantrotter.com/properties/1053712-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1947927,33.4639828,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>00 John Huffman Way, Grovetown, GA  30813</name>
+      <description><![CDATA[<b>Address:</b> 00 John Huffman Way, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1.76 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/00-john-huffman-way-grovetown-ga/">http://www.jordantrotter.com/properties/00-john-huffman-way-grovetown-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.1947927,33.4639828,0</coordinates>
@@ -5211,6 +5371,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3597 John Huffman Way, Grovetown, GA  30813</name>
+      <description><![CDATA[<b>Address:</b> 3597 John Huffman Way, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1.89 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3597-john-huffman-way-grovetown-ga/">http://www.jordantrotter.com/properties/3597-john-huffman-way-grovetown-ga/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1920512,33.4639233,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4459 Wrightsboro Road, Grovetown, GA  30813</name>
       <description><![CDATA[<b>Address:</b> 4459 Wrightsboro Road, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 9.95 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1287181-sale">http://www.jordantrotter.com/properties/?propertyId=1287181-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -5276,7 +5444,7 @@
     </Placemark>
     <Placemark>
       <name>4980 Steiner Way, Grovetown, GA  30813</name>
-      <description><![CDATA[<b>Address:</b> 4980 Steiner Way, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,068 - 4,000 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4980-Steiner-Way-Grovetown-GA/">http://www.jordantrotter.com/properties/4980-Steiner-Way-Grovetown-GA/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 4980 Steiner Way, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,600 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4980-Steiner-Way-Grovetown-GA/">http://www.jordantrotter.com/properties/4980-Steiner-Way-Grovetown-GA/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.19897139999999,33.4808839,0</coordinates>
@@ -5707,6 +5875,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2565 Patterson Bridge Road, Hephzibah, GA  30815</name>
+      <description><![CDATA[<b>Address:</b> 2565 Patterson Bridge Road, Hephzibah, GA  30815, Hephzibah, GA 30815<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential Development<br/><b>Size:</b> 230 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2565-patterson-bridge-road-augusta-ga/">http://www.jordantrotter.com/properties/2565-patterson-bridge-road-augusta-ga/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.09636499999999,33.341599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2619 Tobacco Rd, Hephzibah, GA  30815</name>
       <description><![CDATA[<b>Address:</b> 2619 Tobacco Rd, Hephzibah, GA  30815, Hephzibah, GA 30815<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.85 Acres<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1556873-sale">http://www.jordantrotter.com/properties/?propertyId=1556873-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -5765,6 +5941,14 @@
     <Placemark>
       <name>2846 Tobacco Rd., Hephzibah, GA  30815</name>
       <description><![CDATA[<b>Address:</b> 2846 Tobacco Rd., Hephzibah, GA  30815, Hephzibah, GA 30815<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 4.5 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/848651-sale/">http://www.jordantrotter.com/properties/848651-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.10647,33.388257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2846 Tobacco Rd., Hephzibah, GA  30815</name>
+      <description><![CDATA[<b>Address:</b> 2846 Tobacco Rd., Hephzibah, GA  30815, Hephzibah, GA 30815<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 4.5 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2846-tobacco-road-hephzibah-ga/">http://www.jordantrotter.com/properties/2846-tobacco-road-hephzibah-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.10647,33.388257,0</coordinates>
@@ -5965,6 +6149,14 @@
     <Placemark>
       <name>0 Washington Road, Martinez, GA  30907</name>
       <description><![CDATA[<b>Address:</b> 0 Washington Road, Martinez, GA  30907, Martinez, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 6.52 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1523153-sale/">http://www.jordantrotter.com/properties/1523153-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.0795762,33.5152928,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0 Washington Road, Martinez, GA  30907</name>
+      <description><![CDATA[<b>Address:</b> 0 Washington Road, Martinez, GA  30907, Martinez, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 6.52 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/0-Washington-Road-Martinez-GA/">http://www.jordantrotter.com/properties/0-Washington-Road-Martinez-GA/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0795762,33.5152928,0</coordinates>
@@ -6595,6 +6787,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>11147 Atomic Road, North Augusta, SC  29841</name>
+      <description><![CDATA[<b>Address:</b> 11147 Atomic Road, North Augusta, SC  29841, North Augusta, SC 29841<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 1.02 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/11147-atomic-road-north-augusta-lease/">http://www.jordantrotter.com/properties/11147-atomic-road-north-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9245737,33.4923628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1202 Edgefield Rd, North Augusta, SC  29860</name>
       <description><![CDATA[<b>Address:</b> 1202 Edgefield Rd, North Augusta, SC  29860, North Augusta, SC 29860<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail-Pad<br/><b>Size:</b> 0.87 Acres<br/><b>Agent:</b> Liam Welch<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1464563-sale">http://www.jordantrotter.com/properties/?propertyId=1464563-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -6789,6 +6989,14 @@
     <Placemark>
       <name>222 Old Sudlow Lake Road, North Augusta, SC  29841</name>
       <description><![CDATA[<b>Address:</b> 222 Old Sudlow Lake Road, North Augusta, SC  29841, North Augusta, SC 29841<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 33.07 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1523150-sale/">http://www.jordantrotter.com/properties/1523150-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.909069,33.5247901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>222 Old Sudlow Lake Road, North Augusta, SC  29841</name>
+      <description><![CDATA[<b>Address:</b> 222 Old Sudlow Lake Road, North Augusta, SC  29841, North Augusta, SC 29841<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 33.07 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/22-old-sudlow-lake-road-north-augusta-sc/">http://www.jordantrotter.com/properties/22-old-sudlow-lake-road-north-augusta-sc/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.909069,33.5247901,0</coordinates>
@@ -7484,7 +7692,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (175)</name>
+    <name>Meybohm (179)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -7871,6 +8079,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>551 East Gate Drive</name>
+      <description><![CDATA[<b>Address:</b> 551 East Gate Drive, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $500,000<br/><b>Agent:</b> Dustin Wright, Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1658989">https://meybohmcre.com/property-search?propertyId=1658989</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.71754790000001,33.50818,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>6000 Woodside Executive Ct</name>
       <description><![CDATA[<b>Address:</b> 6000 Woodside Executive Ct, Aiken, SC 29803<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 31,706 SF<br/><b>Agent:</b> Karen Daly<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=690692">https://meybohmcre.com/property-search?propertyId=690692</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -8071,6 +8287,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>1484 Broad St</name>
+      <description><![CDATA[<b>Address:</b> 1484 Broad St, Augusta, GA 30901<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 348 SF<br/><b>Price:</b> $125,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Dustin Wright, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1660678">https://meybohmcre.com/property-search?propertyId=1660678</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.9813878,33.4803143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1501 North Leg Rd</name>
       <description><![CDATA[<b>Address:</b> 1501 North Leg Rd, Augusta, GA 30907<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $1,500,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Dustin Wright, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1043700">https://meybohmcre.com/property-search?propertyId=1043700</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -8116,6 +8340,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.014477,33.4404034,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1632 Walton Way</name>
+      <description><![CDATA[<b>Address:</b> 1632 Walton Way, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $1,000,000<br/><b>Agent:</b> David Hogg<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1492678">https://meybohmcre.com/property-search?propertyId=1492678</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.9940727,33.4752422,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -8264,7 +8496,7 @@
     </Placemark>
     <Placemark>
       <name>2440 Peach Orchard Rd</name>
-      <description><![CDATA[<b>Address:</b> 2440 Peach Orchard Rd, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 12,393 SF<br/><b>Price:</b> $549,000<br/><b>Agent:</b> Travis Reed, CCIM, Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1469501">https://meybohmcre.com/property-search?propertyId=1469501</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2440 Peach Orchard Rd, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 12,393 SF<br/><b>Price:</b> $389,000<br/><b>Agent:</b> Travis Reed, CCIM, Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1469501">https://meybohmcre.com/property-search?propertyId=1469501</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.014218,33.4306345,0</coordinates>
@@ -8751,6 +8983,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>4210 Columbia Road bld 11, Suite D</name>
+      <description><![CDATA[<b>Address:</b> 4210 Columbia Road bld 11, Suite D, Martinez, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 4,645 SF<br/><b>Agent:</b> Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1659268">https://meybohmcre.com/property-search?propertyId=1659268</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.1172952,33.5054679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>0 Austin Graybill Rd (lot 2)</name>
       <description><![CDATA[<b>Address:</b> 0 Austin Graybill Rd (lot 2), North Augusta, SC 29860<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $775,000<br/><b>Agent:</b> Matt Rogers<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=807625">https://meybohmcre.com/property-search?propertyId=807625</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -8888,7 +9128,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (85)</name>
+    <name>Sherman &amp; Hemstreet (93)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -8920,6 +9160,22 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9718966,33.472993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1010 James Brown Blvd</name>
+      <description><![CDATA[<b>Address:</b> 1010 James Brown Blvd, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 4.41 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1452065-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1452065-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.972443,33.465789,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>115 Robert C Daniel Junior Parkway</name>
+      <description><![CDATA[<b>Address:</b> 115 Robert C Daniel Junior Parkway, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Institutional/Governmental<br/><b>Size:</b> 19,180 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1659146-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1659146-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0768483,33.494023,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9016,6 +9272,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.02860199999999,33.443474,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1752 Gordon Hwy</name>
+      <description><![CDATA[<b>Address:</b> 1752 Gordon Hwy, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,750 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1633790-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1633790-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.03021559999999,33.443535,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9155,6 +9419,30 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3280 Perkins Rd</name>
+      <description><![CDATA[<b>Address:</b> 3280 Perkins Rd, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 69,120 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1598764-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1598764-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9934656,33.3978698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3328 Washington Road</name>
+      <description><![CDATA[<b>Address:</b> 3328 Washington Road, Augusta, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,000 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0696754,33.5153608,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3343 Deans Bridge Rd</name>
+      <description><![CDATA[<b>Address:</b> 3343 Deans Bridge Rd, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 5,000 - 15,600 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1608934-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1608934-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.07734599999999,33.419595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3452 Peach Orchard Road</name>
       <description><![CDATA[<b>Address:</b> 3452 Peach Orchard Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 990 - 1,200 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=240639-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=240639-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9212,7 +9500,7 @@
     </Placemark>
     <Placemark>
       <name>3643 Walton Way Ext Bldg 4</name>
-      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 250 - 300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0751948,33.4923394,0</coordinates>
@@ -9272,6 +9560,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9455799,33.4554444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4268 Belair Frontage Rd</name>
+      <description><![CDATA[<b>Address:</b> 4268 Belair Frontage Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 2,000 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.12316299999999,33.4827891,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9376,6 +9672,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.133684,33.529057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>413 N Belair Rd</name>
+      <description><![CDATA[<b>Address:</b> 413 N Belair Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 11.68 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1479738-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1479738-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1336319,33.5273341,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
