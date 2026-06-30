@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 29, 2026 | 1246 active listings across 4 companies</description>
+  <description>Updated June 30, 2026 | 1251 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7692,7 +7692,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (179)</name>
+    <name>Meybohm (180)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8991,6 +8991,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>859 Scott Nixon Memorial Drive</name>
+      <description><![CDATA[<b>Address:</b> 859 Scott Nixon Memorial Drive, Martinez, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $575,000<br/><b>Agent:</b> Charlie Moye, Danielle Meikrantz<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=705748">https://meybohmcre.com/property-search?propertyId=705748</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.09811599999999,33.49483900000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>0 Austin Graybill Rd (lot 2)</name>
       <description><![CDATA[<b>Address:</b> 0 Austin Graybill Rd (lot 2), North Augusta, SC 29860<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $775,000<br/><b>Agent:</b> Matt Rogers<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=807625">https://meybohmcre.com/property-search?propertyId=807625</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -9128,7 +9136,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (93)</name>
+    <name>Sherman &amp; Hemstreet (94)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9612,7 +9620,7 @@
     </Placemark>
     <Placemark>
       <name>630 Ellis Street</name>
-      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 89 - 165 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 75 - 165 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9636988,33.4732546,0</coordinates>
@@ -9803,6 +9811,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3499 River Watch Pkwy</name>
+      <description><![CDATA[<b>Address:</b> 3499 River Watch Pkwy, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.32 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1513675-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1513675-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.073492,33.517164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3506 Professional Circle</name>
       <description><![CDATA[<b>Address:</b> 3506 Professional Circle, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,400 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=235407-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=235407-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9876,7 +9892,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Southeastern (19)</name>
+    <name>Southeastern (22)</name>
     <open>0</open>
     <Placemark>
       <name>2441  Whiskey Road</name>
@@ -9892,6 +9908,22 @@
       <styleUrl>#Southeastern</styleUrl>
       <Point>
         <coordinates>-82.0776031,33.4929027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1213 Augusta West Parkway</name>
+      <description><![CDATA[<b>Address:</b> 1213 Augusta West Parkway, Augusta, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 17 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/development-opportunity/">https://www.southeastern.company/property/development-opportunity/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0903504,33.4813763,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1832 Dixon Airline Road</name>
+      <description><![CDATA[<b>Address:</b> 1832 Dixon Airline Road, Augusta, GA <br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 2 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/1832-dixon-airline-road-2/">https://www.southeastern.company/property/1832-dixon-airline-road-2/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-82.0000002,33.3835931,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -10028,6 +10060,14 @@
       <styleUrl>#Southeastern</styleUrl>
       <Point>
         <coordinates>-81.9559169,33.5111424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>135 Market Plaza Drive</name>
+      <description><![CDATA[<b>Address:</b> 135 Market Plaza Drive, North Augusta, SC <br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> sarah.davis@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/northridge-plaza/">https://www.southeastern.company/property/northridge-plaza/</a>]]></description>
+      <styleUrl>#Southeastern</styleUrl>
+      <Point>
+        <coordinates>-81.9389159,33.568229,0</coordinates>
       </Point>
     </Placemark>
   </Folder>
