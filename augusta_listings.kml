@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated June 30, 2026 | 1251 active listings across 4 companies</description>
+  <description>Updated July 01, 2026 | 1253 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7692,7 +7692,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (180)</name>
+    <name>Meybohm (181)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -7920,7 +7920,7 @@
     </Placemark>
     <Placemark>
       <name>22 Gunter Rd</name>
-      <description><![CDATA[<b>Address:</b> 22 Gunter Rd, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Mixed Use<br/><b>Price:</b> $985,000<br/><b>Agent:</b> Karen Daly<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1554402">https://meybohmcre.com/property-search?propertyId=1554402</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 22 Gunter Rd, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Mixed Use<br/><b>Price:</b> $879,000<br/><b>Agent:</b> Karen Daly<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1554402">https://meybohmcre.com/property-search?propertyId=1554402</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.6908625,33.4752038,0</coordinates>
@@ -8212,6 +8212,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.041443,33.515542,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1115 Greene St</name>
+      <description><![CDATA[<b>Address:</b> 1115 Greene St, Augusta, GA 30901<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 3,712 SF<br/><b>Price:</b> $625,000<br/><b>Agent:</b> David Hogg<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1662212">https://meybohmcre.com/property-search?propertyId=1662212</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.9724535,33.4758001,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9136,7 +9144,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (94)</name>
+    <name>Sherman &amp; Hemstreet (95)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9424,6 +9432,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.04886499999999,33.4282409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3250 Deans Bridge Road</name>
+      <description><![CDATA[<b>Address:</b> 3250 Deans Bridge Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Medical<br/><b>Size:</b> 9,600 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=247472-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=247472-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0671861,33.4200368,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
