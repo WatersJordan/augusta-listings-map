@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 01, 2026 | 1253 active listings across 4 companies</description>
+  <description>Updated July 06, 2026 | 1254 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7692,7 +7692,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (181)</name>
+    <name>Meybohm (182)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8852,6 +8852,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.2032203,33.5503236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>720 Low Meadow Dr</name>
+      <description><![CDATA[<b>Address:</b> 720 Low Meadow Dr, Evans, GA 30809<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Hospitality<br/><b>Size:</b> 23,256 SF<br/><b>Price:</b> $3,700,000<br/><b>Cap Rate:</b> 5.35%<br/><b>Agent:</b> Danielle Meikrantz<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1662345">https://meybohmcre.com/property-search?propertyId=1662345</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.1609611,33.5488369,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
