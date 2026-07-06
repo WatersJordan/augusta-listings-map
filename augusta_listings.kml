@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 06, 2026 | 1254 active listings across 4 companies</description>
+  <description>Updated July 06, 2026 | 1259 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (955)</name>
+    <name>Jordan Trotter (960)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -261,6 +261,14 @@
     <Placemark>
       <name>3101 Whiskey Rd, Aiken, SC  29803</name>
       <description><![CDATA[<b>Address:</b> 3101 Whiskey Rd, Aiken, SC  29803, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 11.6 Acres<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3101-Whiskey-Road-Aiken-SC/">http://www.jordantrotter.com/properties/3101-Whiskey-Road-Aiken-SC/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.7019766,33.4932958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3101 Whiskey Rd, Aiken, SC  29803</name>
+      <description><![CDATA[<b>Address:</b> 3101 Whiskey Rd, Aiken, SC  29803, Aiken, SC 29803<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.5 Acres<br/><b>Agent:</b> Liam Welch<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3101-whiskey-rd-aiken-retail-in-line-outparcels-for-lease-aiken-sc-lease/">http://www.jordantrotter.com/properties/3101-whiskey-rd-aiken-retail-in-line-outparcels-for-lease-aiken-sc-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.7019766,33.4932958,0</coordinates>
@@ -2096,6 +2104,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0267949,33.4706938,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>258 Robert C Daniel Junior Parkway, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 258 Robert C Daniel Junior Parkway, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 2 Acres<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/258-robert-c-daniel-junior-parkway-augusta-sale/">http://www.jordantrotter.com/properties/258-robert-c-daniel-junior-parkway-augusta-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.080592,33.486638,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4555,6 +4571,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3118 William Few Parkway, Evans, GA  30809</name>
+      <description><![CDATA[<b>Address:</b> 3118 William Few Parkway, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,200 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1104563-lease/">http://www.jordantrotter.com/properties/1104563-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1916282,33.5737048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4105 Colben Boulevard, Evans, GA  30809</name>
       <description><![CDATA[<b>Address:</b> 4105 Colben Boulevard, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 4,000 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1597731-lease">http://www.jordantrotter.com/properties/?propertyId=1597731-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -4603,6 +4627,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>4227 Evans to Locks Road, Evans, GA  30809</name>
+      <description><![CDATA[<b>Address:</b> 4227 Evans to Locks Road, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 17.87 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4227-evans-to-locks-road-evans-sale/">http://www.jordantrotter.com/properties/4227-evans-to-locks-road-evans-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.11331919999999,33.5429779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4263 Washington Road, Evans, GA  30809</name>
       <description><![CDATA[<b>Address:</b> 4263 Washington Road, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,400 - 2,443 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=366459-lease">http://www.jordantrotter.com/properties/?propertyId=366459-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -4624,6 +4656,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.120548,33.5297005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4355 River Watch Parkway, Evans, GA  30809</name>
+      <description><![CDATA[<b>Address:</b> 4355 River Watch Parkway, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 3.11 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4355-river-watch-parkway-evans-sale/">http://www.jordantrotter.com/properties/4355-river-watch-parkway-evans-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.113528,33.530168,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
