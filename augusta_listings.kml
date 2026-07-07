@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 06, 2026 | 1259 active listings across 4 companies</description>
+  <description>Updated July 07, 2026 | 1261 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7732,7 +7732,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (182)</name>
+    <name>Meybohm (184)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8695,6 +8695,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>4310 Belair Frontage Rd</name>
+      <description><![CDATA[<b>Address:</b> 4310 Belair Frontage Rd, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 2,600 SF<br/><b>Agent:</b> Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1662767">https://meybohmcre.com/property-search?propertyId=1662767</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.1250219,33.4830018,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4476 Columbia Rd</name>
       <description><![CDATA[<b>Address:</b> 4476 Columbia Rd, Augusta, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 8,450 SF<br/><b>Agent:</b> Charlie Moye, Brian Sweeting<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1545674">https://meybohmcre.com/property-search?propertyId=1545674</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -8852,6 +8860,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.11776449999999,33.5431729,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4698 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 4698 Washington Rd, Evans, GA 30809<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 14,723 SF<br/><b>Price:</b> $2,670,000<br/><b>Cap Rate:</b> 6.74%<br/><b>Agent:</b> Jordan Collier, Luke Henderson, Will Owen<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1663167">https://meybohmcre.com/property-search?propertyId=1663167</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.1603999,33.5562972,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
