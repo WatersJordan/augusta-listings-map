@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 07, 2026 | 1261 active listings across 4 companies</description>
+  <description>Updated July 08, 2026 | 1262 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7732,7 +7732,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (184)</name>
+    <name>Meybohm (185)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8116,6 +8116,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.5646963,33.7329741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>513 Silver Bluff</name>
+      <description><![CDATA[<b>Address:</b> 513 Silver Bluff, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 16,470 SF<br/><b>Price:</b> $2,230,000<br/><b>Cap Rate:</b> 6.98%<br/><b>Agent:</b> Jordan Collier, Luke Henderson, Will Owen<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1663179">https://meybohmcre.com/property-search?propertyId=1663179</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.724853,33.5179072,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
