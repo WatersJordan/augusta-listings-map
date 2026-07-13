@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 10, 2026 | 1262 active listings across 4 companies</description>
+  <description>Updated July 13, 2026 | 1266 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (960)</name>
+    <name>Jordan Trotter (963)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -1253,6 +1253,14 @@
     <Placemark>
       <name>1499 Jordan Road, Augusta, GA  30904</name>
       <description><![CDATA[<b>Address:</b> 1499 Jordan Road, Augusta, GA  30904, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 35,410 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1499-Jordan-Road-Augusta-GA/">http://www.jordantrotter.com/properties/1499-Jordan-Road-Augusta-GA/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.0047197,33.4612213,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1499 Jordan Road, Augusta, GA  30904</name>
+      <description><![CDATA[<b>Address:</b> 1499 Jordan Road, Augusta, GA  30904, Augusta, GA 30904<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 35,410 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1499-jordan-road-augusta-lease/">http://www.jordantrotter.com/properties/1499-jordan-road-augusta-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0047197,33.4612213,0</coordinates>
@@ -5803,6 +5811,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>6322 Wrightsboro Rd, Harlem, GA  30814</name>
+      <description><![CDATA[<b>Address:</b> 6322 Wrightsboro Rd, Harlem, GA  30814, Harlem, GA 30814<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 3.07 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/6322-wrightsboro-rd-harlem-sale/">http://www.jordantrotter.com/properties/6322-wrightsboro-rd-harlem-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.31794599999999,33.4817088,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>710 and 720 Point Bluff Pkwy, Harlem, GA 30814, Harlem, GA  30814</name>
       <description><![CDATA[<b>Address:</b> 710 and 720 Point Bluff Pkwy, Harlem, GA 30814, Harlem, GA  30814, Harlem, GA 30814<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,290 - 1,900 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1274934-lease">http://www.jordantrotter.com/properties/?propertyId=1274934-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -6179,6 +6195,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>653 South Carolina 121, Johnston, SC  29832</name>
+      <description><![CDATA[<b>Address:</b> 653 South Carolina 121, Johnston, SC  29832, Johnston, SC 29832<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 24,000 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/653-south-carolina-121-johnston-lease/">http://www.jordantrotter.com/properties/653-south-carolina-121-johnston-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.8267355,33.7960437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>0 Washington Road, Martinez, GA  30907</name>
       <description><![CDATA[<b>Address:</b> 0 Washington Road, Martinez, GA  30907, Martinez, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Other<br/><b>Size:</b> 6.52 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1523153-sale">http://www.jordantrotter.com/properties/?propertyId=1523153-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -6268,7 +6292,7 @@
     </Placemark>
     <Placemark>
       <name>229 Furys Ferry Road , Martinez, GA  30907</name>
-      <description><![CDATA[<b>Address:</b> 229 Furys Ferry Road , Martinez, GA  30907, Martinez, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 2,700 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/">http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 229 Furys Ferry Road , Martinez, GA  30907, Martinez, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,400 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/">http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0682991,33.5234695,0</coordinates>
@@ -7732,7 +7756,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (185)</name>
+    <name>Meybohm (186)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -9068,6 +9092,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.1172952,33.5054679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>475 Flowing Wells Road</name>
+      <description><![CDATA[<b>Address:</b> 475 Flowing Wells Road, Martinez, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $799,000<br/><b>Agent:</b> Charlie Moye, Travis Reed, CCIM<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1384983">https://meybohmcre.com/property-search?propertyId=1384983</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.1107689,33.4933481,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
