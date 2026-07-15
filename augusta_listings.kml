@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 14, 2026 | 1266 active listings across 4 companies</description>
+  <description>Updated July 15, 2026 | 1269 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7816,7 +7816,7 @@
     </Placemark>
     <Placemark>
       <name>000 University Parkway</name>
-      <description><![CDATA[<b>Address:</b> 000 University Parkway, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $229,900<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1626132">https://meybohmcre.com/property-search?propertyId=1626132</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 000 University Parkway, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $249,900<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1626132">https://meybohmcre.com/property-search?propertyId=1626132</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.750314,33.590551,0</coordinates>
@@ -9248,7 +9248,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (95)</name>
+    <name>Sherman &amp; Hemstreet (98)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9288,6 +9288,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.972443,33.465789,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>111 Sherwood Dr</name>
+      <description><![CDATA[<b>Address:</b> 111 Sherwood Dr, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.75 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1243733-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1243733-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.035912,33.51297,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9740,7 +9748,7 @@
     </Placemark>
     <Placemark>
       <name>630 Ellis Street</name>
-      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 75 - 165 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 75 - 2,451 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9636988,33.4732546,0</coordinates>
@@ -9760,6 +9768,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9668202,33.4729546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>946 Twiggs St</name>
+      <description><![CDATA[<b>Address:</b> 946 Twiggs St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Warehouse<br/><b>Size:</b> 2,400 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=389287-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=389287-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.96775769999999,33.4641422,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9816,6 +9832,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1317832,33.5412309,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4396 Lamkin Dr</name>
+      <description><![CDATA[<b>Address:</b> 4396 Lamkin Dr, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,200 - 2,400 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1657419-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1657419-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1311422,33.534666,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
