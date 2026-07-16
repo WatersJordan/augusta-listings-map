@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 15, 2026 | 1269 active listings across 4 companies</description>
+  <description>Updated July 16, 2026 | 1269 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7984,7 +7984,7 @@
     </Placemark>
     <Placemark>
       <name>22 Gunter Rd</name>
-      <description><![CDATA[<b>Address:</b> 22 Gunter Rd, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Mixed Use<br/><b>Price:</b> $879,000<br/><b>Agent:</b> Karen Daly<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1554402">https://meybohmcre.com/property-search?propertyId=1554402</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 22 Gunter Rd, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $749,900<br/><b>Agent:</b> Karen Daly<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1554402">https://meybohmcre.com/property-search?propertyId=1554402</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.6908625,33.4752038,0</coordinates>
@@ -8568,7 +8568,7 @@
     </Placemark>
     <Placemark>
       <name>2417 Doug Barnard Pkwy</name>
-      <description><![CDATA[<b>Address:</b> 2417 Doug Barnard Pkwy, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $789,000<br/><b>Agent:</b> Rebecca Wall, CCIM<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1410070">https://meybohmcre.com/property-search?propertyId=1410070</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2417 Doug Barnard Pkwy, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $759,000<br/><b>Agent:</b> Rebecca Wall, CCIM<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1410070">https://meybohmcre.com/property-search?propertyId=1410070</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.990009,33.423532,0</coordinates>
