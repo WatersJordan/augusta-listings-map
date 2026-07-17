@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 16, 2026 | 1269 active listings across 4 companies</description>
+  <description>Updated July 17, 2026 | 1270 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -9248,7 +9248,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (98)</name>
+    <name>Sherman &amp; Hemstreet (99)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9603,6 +9603,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3540 Wheeler Road Suite 316</name>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Road Suite 316, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 734 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0776235,33.4846814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3540 Wheeler Road Suite 409</name>
       <description><![CDATA[<b>Address:</b> 3540 Wheeler Road Suite 409, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 800 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=776342-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=776342-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9700,7 +9708,7 @@
     </Placemark>
     <Placemark>
       <name>4268 Belair Frontage Rd</name>
-      <description><![CDATA[<b>Address:</b> 4268 Belair Frontage Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 2,000 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 4268 Belair Frontage Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 2,000 - 4,000 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.12316299999999,33.4827891,0</coordinates>
