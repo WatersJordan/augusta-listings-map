@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 17, 2026 | 1270 active listings across 4 companies</description>
+  <description>Updated July 20, 2026 | 1273 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (963)</name>
+    <name>Jordan Trotter (965)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -1128,6 +1128,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.97689319999999,33.4787851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1401 Martinique Dr, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 1401 Martinique Dr, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 18.24 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1401-martinique-dr-augusta-sale/">http://www.jordantrotter.com/properties/1401-martinique-dr-augusta-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.07746399999999,33.476251,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3576,6 +3584,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.96286479999999,33.33390970000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4282 Belair Frontage Road, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 4282 Belair Frontage Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Warehouse<br/><b>Size:</b> 2,500 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4282-belair-frontage-road-augusta-lease/">http://www.jordantrotter.com/properties/4282-belair-frontage-road-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1251324,33.4819016,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -8448,7 +8464,7 @@
     </Placemark>
     <Placemark>
       <name>1706 Magnolia Way</name>
-      <description><![CDATA[<b>Address:</b> 1706 Magnolia Way, Augusta, GA 30909<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 30,512 SF<br/><b>Price:</b> $7,000,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Jordan Collier, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1489380">https://meybohmcre.com/property-search?propertyId=1489380</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1706 Magnolia Way, Augusta, GA 30909<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 30,512 SF<br/><b>Price:</b> $6,500,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Jordan Collier, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1489380">https://meybohmcre.com/property-search?propertyId=1489380</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.1275849,33.4766321,0</coordinates>
@@ -8680,7 +8696,7 @@
     </Placemark>
     <Placemark>
       <name>3661 Mike Padgett Hwy</name>
-      <description><![CDATA[<b>Address:</b> 3661 Mike Padgett Hwy, Augusta, GA 30906<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 5,250 SF<br/><b>Price:</b> $579,500<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Dustin Wright, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1540574">https://meybohmcre.com/property-search?propertyId=1540574</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3661 Mike Padgett Hwy, Augusta, GA 30906<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 5,250 SF<br/><b>Price:</b> $521,100<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Dustin Wright, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1540574">https://meybohmcre.com/property-search?propertyId=1540574</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.998936,33.370049,0</coordinates>
@@ -9248,7 +9264,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (99)</name>
+    <name>Sherman &amp; Hemstreet (100)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9604,7 +9620,7 @@
     </Placemark>
     <Placemark>
       <name>3540 Wheeler Road Suite 316</name>
-      <description><![CDATA[<b>Address:</b> 3540 Wheeler Road Suite 316, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 734 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Road Suite 316, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 734 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0776235,33.4846814,0</coordinates>
@@ -9712,6 +9728,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.12316299999999,33.4827891,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>429 Walker St</name>
+      <description><![CDATA[<b>Address:</b> 429 Walker St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 12,237 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1661952-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1661952-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9599681,33.4687479,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
