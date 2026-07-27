@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 22, 2026 | 1273 active listings across 4 companies</description>
+  <description>Updated July 27, 2026 | 1281 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (965)</name>
+    <name>Jordan Trotter (966)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -2275,6 +2275,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2828 Hillcreek Drive, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 2828 Hillcreek Drive, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,450 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/526353-lease/">http://www.jordantrotter.com/properties/526353-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.09213869999999,33.4790049,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2835 Washington Rd, Augusta, GA  30909</name>
       <description><![CDATA[<b>Address:</b> 2835 Washington Rd, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail-Pad<br/><b>Size:</b> 1.49 Acres<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1417232-lease">http://www.jordantrotter.com/properties/?propertyId=1417232-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -2460,7 +2468,7 @@
     </Placemark>
     <Placemark>
       <name>3105 Spring Grove Drive, Augusta, GA  30906</name>
-      <description><![CDATA[<b>Address:</b> 3105 Spring Grove Drive, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 1,666 - 10,000 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/">http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3105 Spring Grove Drive, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,333 - 10,000 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/">http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0747174,33.4225647,0</coordinates>
@@ -5556,7 +5564,7 @@
     </Placemark>
     <Placemark>
       <name>5106 Wrightsboro Rd, Grovetown, GA  30813</name>
-      <description><![CDATA[<b>Address:</b> 5106 Wrightsboro Rd, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 860 - 1,125 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/Forrest-Plaza-Grovetown/">http://www.jordantrotter.com/properties/Forrest-Plaza-Grovetown/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 5106 Wrightsboro Rd, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,125 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/Forrest-Plaza-Grovetown/">http://www.jordantrotter.com/properties/Forrest-Plaza-Grovetown/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.19613629999999,33.4574141,0</coordinates>
@@ -7772,7 +7780,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (186)</name>
+    <name>Meybohm (187)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8020,6 +8028,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.7216491,33.5618267,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>231 Marlboro St SE</name>
+      <description><![CDATA[<b>Address:</b> 231 Marlboro St SE, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 6,960 SF<br/><b>Price:</b> $700,000<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1661002">https://meybohmcre.com/property-search?propertyId=1661002</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.7087336,33.5538037,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -8344,7 +8360,7 @@
     </Placemark>
     <Placemark>
       <name>1219 New Savannah Rd</name>
-      <description><![CDATA[<b>Address:</b> 1219 New Savannah Rd, Augusta, GA 30901<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 33,200 SF<br/><b>Price:</b> $1,390,000<br/><b>Agent:</b> John Eckley, MBA, Civil Eng., Jonathan Aceves, CCIM, MBA, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1518551">https://meybohmcre.com/property-search?propertyId=1518551</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1219 New Savannah Rd, Augusta, GA 30901<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 33,200 SF<br/><b>Price:</b> $1,350,000<br/><b>Agent:</b> John Eckley, MBA, Civil Eng., Jonathan Aceves, CCIM, MBA, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1518551">https://meybohmcre.com/property-search?propertyId=1518551</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.97299869999999,33.4573048,0</coordinates>
@@ -9264,7 +9280,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (100)</name>
+    <name>Sherman &amp; Hemstreet (106)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9459,6 +9475,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2323 Milledgeville Road</name>
+      <description><![CDATA[<b>Address:</b> 2323 Milledgeville Road, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Medical<br/><b>Size:</b> 16,627 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=902652-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=902652-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.009288,33.4480159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2326 Walden Dr </name>
       <description><![CDATA[<b>Address:</b> 2326 Walden Dr , Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,714 SF<br/><b>Agent:</b> Zack Hartman<br/><b>Phone:</b> 706.922.0395<br/><b>Email:</b> zhartman@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=991533-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=991533-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9512,6 +9536,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.04152239999999,33.5091822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2631 Tobacco Road</name>
+      <description><![CDATA[<b>Address:</b> 2631 Tobacco Road, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 60 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320030-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320030-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.08878299999999,33.382936,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9691,6 +9723,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3827 Washington Road</name>
+      <description><![CDATA[<b>Address:</b> 3827 Washington Road, Augusta, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.9 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1405065-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1405065-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0896491,33.5126413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3910 Wrightsboro Rd</name>
       <description><![CDATA[<b>Address:</b> 3910 Wrightsboro Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602825-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1602825-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9803,6 +9843,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>922 8th Street</name>
+      <description><![CDATA[<b>Address:</b> 922 8th Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.22 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1373807-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1373807-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9699037,33.4656763,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>946 Twiggs St</name>
       <description><![CDATA[<b>Address:</b> 946 Twiggs St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Warehouse<br/><b>Size:</b> 2,400 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=389287-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=389287-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9840,6 +9888,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.2058517,33.5131018,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3921 Evans To Locks Rd</name>
+      <description><![CDATA[<b>Address:</b> 3921 Evans To Locks Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 11.37 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1474994-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1474994-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.092501,33.551241,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9960,6 +10016,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.2264701,33.5159381,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>601 Gibbs Road S</name>
+      <description><![CDATA[<b>Address:</b> 601 Gibbs Road S, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.17 Acres<br/><b>Agent:</b> Zack Hartman<br/><b>Phone:</b> 706.922.0395<br/><b>Email:</b> zhartman@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1220748-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1220748-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.143435,33.474248,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
