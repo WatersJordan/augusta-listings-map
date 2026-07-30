@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated July 29, 2026 | 1282 active listings across 4 companies</description>
+  <description>Updated July 30, 2026 | 1283 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -9288,7 +9288,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (106)</name>
+    <name>Sherman &amp; Hemstreet (107)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9772,7 +9772,7 @@
     </Placemark>
     <Placemark>
       <name>4268 Belair Frontage Rd</name>
-      <description><![CDATA[<b>Address:</b> 4268 Belair Frontage Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 2,000 - 4,000 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 4268 Belair Frontage Rd, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 4,000 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1594901-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.12316299999999,33.4827891,0</coordinates>
@@ -10056,6 +10056,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0848431,33.5123972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>234 Camilla Ave</name>
+      <description><![CDATA[<b>Address:</b> 234 Camilla Ave, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Warehouse<br/><b>Size:</b> 2,275 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1201422-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1201422-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0844422,33.5065224,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
