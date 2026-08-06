@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 05, 2026 | 1288 active listings across 4 companies</description>
+  <description>Updated August 06, 2026 | 1288 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8488,7 +8488,7 @@
     </Placemark>
     <Placemark>
       <name>1632 Walton Way</name>
-      <description><![CDATA[<b>Address:</b> 1632 Walton Way, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $1,000,000<br/><b>Agent:</b> David Hogg<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1492678">https://meybohmcre.com/property-search?propertyId=1492678</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1632 Walton Way, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $900,000<br/><b>Agent:</b> David Hogg<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1492678">https://meybohmcre.com/property-search?propertyId=1492678</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.9940727,33.4752422,0</coordinates>
@@ -8776,7 +8776,7 @@
     </Placemark>
     <Placemark>
       <name>4106 Columbia Road</name>
-      <description><![CDATA[<b>Address:</b> 4106 Columbia Road, Augusta, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 25,282 SF<br/><b>Price:</b> $4,355,000<br/><b>Cap Rate:</b> 7.00%<br/><b>Agent:</b> Luke Henderson, Jordan Collier, Brian Sweeting<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1615275">https://meybohmcre.com/property-search?propertyId=1615275</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 4106 Columbia Road, Augusta, GA 30907<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 25,282 SF<br/><b>Price:</b> $3,996,500<br/><b>Cap Rate:</b> 7.56%<br/><b>Agent:</b> Luke Henderson, Jordan Collier, Brian Sweeting<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1615275">https://meybohmcre.com/property-search?propertyId=1615275</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.10638050000001,33.507548,0</coordinates>
