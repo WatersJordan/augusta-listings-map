@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 10, 2026 | 1290 active listings across 4 companies</description>
+  <description>Updated August 10, 2026 | 1291 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -9336,7 +9336,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (108)</name>
+    <name>Sherman &amp; Hemstreet (109)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9376,6 +9376,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.972443,33.465789,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1032 Broad Street</name>
+      <description><![CDATA[<b>Address:</b> 1032 Broad Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,850 SF<br/><b>Agent:</b> Matt Aitken<br/><b>Phone:</b> 706.288.1079 x314<br/><b>Email:</b> maitken@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1318838-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1318838-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9706339,33.4767033,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
