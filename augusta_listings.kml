@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 07, 2026 | 1289 active listings across 4 companies</description>
+  <description>Updated August 10, 2026 | 1290 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (970)</name>
+    <name>Jordan Trotter (971)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -4477,6 +4477,14 @@
     <Placemark>
       <name>770 Augusta Road, Edgefield, SC  29824</name>
       <description><![CDATA[<b>Address:</b> 770 Augusta Road, Edgefield, SC  29824, Edgefield, SC 29824<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 67,095 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/770-Augusta-Road-Edgefield-SC/">http://www.jordantrotter.com/properties/770-Augusta-Road-Edgefield-SC/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9042819,33.7667197,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>770 Augusta Road, Edgefield, SC  29824</name>
+      <description><![CDATA[<b>Address:</b> 770 Augusta Road, Edgefield, SC  29824, Edgefield, SC 29824<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 192,095 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/770-augusta-road-edgefield-sale/">http://www.jordantrotter.com/properties/770-augusta-road-edgefield-sale/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.9042819,33.7667197,0</coordinates>
