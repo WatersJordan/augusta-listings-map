@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 10, 2026 | 1291 active listings across 4 companies</description>
+  <description>Updated August 11, 2026 | 1293 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -9336,7 +9336,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (109)</name>
+    <name>Sherman &amp; Hemstreet (111)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9344,6 +9344,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.6891965,33.5966153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2402 Whiskey Rd</name>
+      <description><![CDATA[<b>Address:</b> 2402 Whiskey Rd, Aiken, SC 29803<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 2,160 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204956-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204956-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.71198609999999,33.5103805,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -10144,6 +10152,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0752592,33.5329212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3550 River Watch Pkwy</name>
+      <description><![CDATA[<b>Address:</b> 3550 River Watch Pkwy, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,100 - 5,800 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1676916-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1676916-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.07892079999999,33.5184661,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
