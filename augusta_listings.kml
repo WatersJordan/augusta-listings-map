@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 12, 2026 | 1293 active listings across 4 companies</description>
+  <description>Updated August 13, 2026 | 1293 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8408,7 +8408,7 @@
     </Placemark>
     <Placemark>
       <name>1221 W Wheeler Pkwy</name>
-      <description><![CDATA[<b>Address:</b> 1221 W Wheeler Pkwy, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $200,000<br/><b>Agent:</b> John Eckley, MBA, Civil Eng., Jonathan Aceves, CCIM, MBA, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1514381">https://meybohmcre.com/property-search?propertyId=1514381</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1221 W Wheeler Pkwy, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $150,000<br/><b>Agent:</b> John Eckley, MBA, Civil Eng., Jonathan Aceves, CCIM, MBA, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1514381">https://meybohmcre.com/property-search?propertyId=1514381</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.098552,33.480987,0</coordinates>
