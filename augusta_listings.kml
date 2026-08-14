@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 13, 2026 | 1293 active listings across 4 companies</description>
+  <description>Updated August 14, 2026 | 1295 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7820,7 +7820,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (189)</name>
+    <name>Meybohm (191)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -7880,7 +7880,7 @@
     </Placemark>
     <Placemark>
       <name>000 University Parkway</name>
-      <description><![CDATA[<b>Address:</b> 000 University Parkway, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $249,900<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1626132">https://meybohmcre.com/property-search?propertyId=1626132</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 000 University Parkway, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $190,000<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1626132">https://meybohmcre.com/property-search?propertyId=1626132</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.750314,33.590551,0</coordinates>
@@ -8311,6 +8311,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Starling Ct</name>
+      <description><![CDATA[<b>Address:</b> Starling Ct, Aiken, SC 29805<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 816 SF<br/><b>Price:</b> $60,000<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1674969">https://meybohmcre.com/property-search?propertyId=1674969</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.6727739,33.678067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>TBD Bradley Mill Road - 13.75 Acres Undeveloped Land in North Aiken</name>
       <description><![CDATA[<b>Address:</b> TBD Bradley Mill Road - 13.75 Acres Undeveloped Land in North Aiken, Aiken, SC 29805<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $205,000<br/><b>Agent:</b> Alex Hendry<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1518767">https://meybohmcre.com/property-search?propertyId=1518767</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -8516,6 +8524,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.00711559999999,33.4589148,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1703 Marvin Griffin Rd</name>
+      <description><![CDATA[<b>Address:</b> 1703 Marvin Griffin Rd, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 15,400 SF<br/><b>Agent:</b> Dustin Wright, John Eckley, MBA, Civil Eng., Jonathan Aceves, CCIM, MBA<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1678447">https://meybohmcre.com/property-search?propertyId=1678447</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.99649480000001,33.3945573,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
