@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 14, 2026 | 1295 active listings across 4 companies</description>
+  <description>Updated August 17, 2026 | 1295 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8304,7 +8304,7 @@
     </Placemark>
     <Placemark>
       <name>Powderhouse Road</name>
-      <description><![CDATA[<b>Address:</b> Powderhouse Road, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $3,400,000<br/><b>Agent:</b> Luke Henderson, Jordan Collier, Brian Sweeting<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1620606">https://meybohmcre.com/property-search?propertyId=1620606</a>]]></description>
+      <description><![CDATA[<b>Address:</b> Powderhouse Road, Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $2,775,000<br/><b>Agent:</b> Luke Henderson, Jordan Collier, Brian Sweeting<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1620606">https://meybohmcre.com/property-search?propertyId=1620606</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.702101,33.5293793,0</coordinates>
