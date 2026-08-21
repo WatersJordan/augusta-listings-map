@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 20, 2026 | 1295 active listings across 4 companies</description>
+  <description>Updated August 21, 2026 | 1297 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7820,7 +7820,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (191)</name>
+    <name>Meybohm (192)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8372,6 +8372,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.9724535,33.4758001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1125 Interstate Pkwy</name>
+      <description><![CDATA[<b>Address:</b> 1125 Interstate Pkwy, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $4,200,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Dustin Wright, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1680965">https://meybohmcre.com/property-search?propertyId=1680965</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.107405,33.485232,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9352,7 +9360,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (111)</name>
+    <name>Sherman &amp; Hemstreet (112)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9560,6 +9568,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0064385,33.4360465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>226 6th St</name>
+      <description><![CDATA[<b>Address:</b> 226 6th St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Restaurant<br/><b>Size:</b> 8,151 SF<br/><b>Agent:</b> Matt Aitken<br/><b>Phone:</b> 706.288.1079 x314<br/><b>Email:</b> maitken@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1681063-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1681063-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-81.9618601,33.4730238,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
