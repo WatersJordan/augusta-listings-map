@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 21, 2026 | 1297 active listings across 4 companies</description>
+  <description>Updated August 24, 2026 | 1301 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (971)</name>
+    <name>Jordan Trotter (975)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -72,6 +72,22 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.6430694,33.6761683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>000 Beloit Street, Aiken, SC  29805</name>
+      <description><![CDATA[<b>Address:</b> 000 Beloit Street, Aiken, SC  29805, Aiken, SC 29805<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 66,000 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/000-beloit-street-aiken-lease/">http://www.jordantrotter.com/properties/000-beloit-street-aiken-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.70388849999999,33.6481617,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>000 Beloit Street, Aiken, SC  29805</name>
+      <description><![CDATA[<b>Address:</b> 000 Beloit Street, Aiken, SC  29805, Aiken, SC 29805<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 66,000 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/000-beloit-street-aiken-sale/">http://www.jordantrotter.com/properties/000-beloit-street-aiken-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.70388849999999,33.6481617,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3788,7 +3804,7 @@
     </Placemark>
     <Placemark>
       <name>668 Broad Street, Augusta, GA  30901</name>
-      <description><![CDATA[<b>Address:</b> 668 Broad Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,400 - 4,625 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/668-broad-street-augusta-lease/">http://www.jordantrotter.com/properties/668-broad-street-augusta-lease/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 668 Broad Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,225 - 4,625 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/668-broad-street-augusta-lease/">http://www.jordantrotter.com/properties/668-broad-street-augusta-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.96335719999999,33.4741915,0</coordinates>
@@ -4584,6 +4600,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.1174659,33.576194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>132 N Belair Rd, Evans, GA  30809</name>
+      <description><![CDATA[<b>Address:</b> 132 N Belair Rd, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,600 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/132-n-belair-rd-evans-lease/">http://www.jordantrotter.com/properties/132-n-belair-rd-evans-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.143118,33.511283,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -5752,6 +5776,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.20619599999999,33.456849,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>611 &amp; 615 E Robinson Avenue, Grovetown, GA  30813</name>
+      <description><![CDATA[<b>Address:</b> 611 &amp; 615 E Robinson Avenue, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 4,100 - 8,300 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/611-615-e-robinson-avenue-grovetown-lease/">http://www.jordantrotter.com/properties/611-615-e-robinson-avenue-grovetown-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1850319,33.4419875,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
