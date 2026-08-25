@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 24, 2026 | 1301 active listings across 4 companies</description>
+  <description>Updated August 25, 2026 | 1301 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -9828,7 +9828,7 @@
     </Placemark>
     <Placemark>
       <name>3643 Walton Way Ext Bldg 4</name>
-      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 200 - 300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0751948,33.4923394,0</coordinates>
