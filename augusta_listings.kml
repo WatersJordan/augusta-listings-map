@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 25, 2026 | 1301 active listings across 4 companies</description>
+  <description>Updated August 26, 2026 | 1304 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7852,7 +7852,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (192)</name>
+    <name>Meybohm (193)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8364,6 +8364,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.61545,33.56493,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Frontage Road</name>
+      <description><![CDATA[<b>Address:</b> West Frontage Road, Aiken, SC 29804<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $980,000<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1673200">https://meybohmcre.com/property-search?propertyId=1673200</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.6839276,33.6612101,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9392,7 +9400,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (112)</name>
+    <name>Sherman &amp; Hemstreet (114)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9776,6 +9784,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.071961,33.4866873,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3540 Wheeler Rd Suite 617</name>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Rd Suite 617, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,070 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682281-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682281-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0784721,33.4842318,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -10224,6 +10240,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.07892079999999,33.5184661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3821 Washington Rd</name>
+      <description><![CDATA[<b>Address:</b> 3821 Washington Rd, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 1,300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682311-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682311-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0888061,33.512735,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
