@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 26, 2026 | 1304 active listings across 4 companies</description>
+  <description>Updated August 27, 2026 | 1307 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7852,7 +7852,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (193)</name>
+    <name>Meybohm (194)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8156,6 +8156,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.7169887,33.5579793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>31 Enterprise Ave</name>
+      <description><![CDATA[<b>Address:</b> 31 Enterprise Ave, Aiken, SC 29803<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Mixed Use<br/><b>Size:</b> 5,000 SF<br/><b>Agent:</b> Curt Hanna<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1682444">https://meybohmcre.com/property-search?propertyId=1682444</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.6910055,33.528873,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9400,7 +9408,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (114)</name>
+    <name>Sherman &amp; Hemstreet (116)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9756,7 +9764,7 @@
     </Placemark>
     <Placemark>
       <name>3328 Washington Road</name>
-      <description><![CDATA[<b>Address:</b> 3328 Washington Road, Augusta, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,000 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3328 Washington Road, Augusta, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,000 - 5,000 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0696754,33.5153608,0</coordinates>
@@ -9797,6 +9805,14 @@
     <Placemark>
       <name>3540 Wheeler Rd Suite 618</name>
       <description><![CDATA[<b>Address:</b> 3540 Wheeler Rd Suite 618, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 400 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1537335-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1537335-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0790834,33.4842378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3540 Wheeler Rd Suite 619</name>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Rd Suite 619, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 660 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682856-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682856-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0790834,33.4842378,0</coordinates>
@@ -10160,6 +10176,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1925006,33.4289705,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5149 Columbia Road</name>
+      <description><![CDATA[<b>Address:</b> 5149 Columbia Road, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2.5 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683068-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683068-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1994043,33.5079719,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
