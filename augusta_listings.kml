@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 28, 2026 | 1307 active listings across 4 companies</description>
+  <description>Updated August 31, 2026 | 1309 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (975)</name>
+    <name>Jordan Trotter (977)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -2347,6 +2347,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2852 Deans Bridge Rd, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 2852 Deans Bridge Rd, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,400 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2852-deans-bridge-rd-augusta-lease/">http://www.jordantrotter.com/properties/2852-deans-bridge-rd-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.03560809999999,33.432815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2900 Deans Bridge Rd, Augusta, GA  30906</name>
       <description><![CDATA[<b>Address:</b> 2900 Deans Bridge Rd, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 4.56 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1488906-sale">http://www.jordantrotter.com/properties/?propertyId=1488906-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -2484,7 +2492,7 @@
     </Placemark>
     <Placemark>
       <name>3105 Spring Grove Drive, Augusta, GA  30906</name>
-      <description><![CDATA[<b>Address:</b> 3105 Spring Grove Drive, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,333 - 10,000 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/">http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3105 Spring Grove Drive, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,333 - 10,000 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/">http://www.jordantrotter.com/properties/3105-Spring-Grove-Drive/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0747174,33.4225647,0</coordinates>
@@ -4028,7 +4036,7 @@
     </Placemark>
     <Placemark>
       <name>826 Cabela Drive, Augusta, GA  30909</name>
-      <description><![CDATA[<b>Address:</b> 826 Cabela Drive, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,560 - 2,519 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/826-cabela-drive-augusta-ga/">http://www.jordantrotter.com/properties/826-cabela-drive-augusta-ga/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 826 Cabela Drive, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,544 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/826-cabela-drive-augusta-ga/">http://www.jordantrotter.com/properties/826-cabela-drive-augusta-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.018873,33.5238096,0</coordinates>
@@ -5108,7 +5116,7 @@
     </Placemark>
     <Placemark>
       <name>358 Ascauga Lake Road, Graniteville, SC  29829</name>
-      <description><![CDATA[<b>Address:</b> 358 Ascauga Lake Road, Graniteville, SC  29829, Graniteville, SC 29829<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 36,573 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/358-ascauga-lake-road-graniteville-lease/">http://www.jordantrotter.com/properties/358-ascauga-lake-road-graniteville-lease/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 358 Ascauga Lake Road, Graniteville, SC  29829, Graniteville, SC 29829<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 36,573 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/358-ascauga-lake-road-graniteville-lease/">http://www.jordantrotter.com/properties/358-ascauga-lake-road-graniteville-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.8253142,33.572838,0</coordinates>
@@ -7280,6 +7288,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.9474846,33.589838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>725 East Martintown Road, North Augusta, SC  29841</name>
+      <description><![CDATA[<b>Address:</b> 725 East Martintown Road, North Augusta, SC  29841, North Augusta, SC 29841<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,822 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/725-east-martintown-road-north-augusta-lease/">http://www.jordantrotter.com/properties/725-east-martintown-road-north-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.950413,33.4895894,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
