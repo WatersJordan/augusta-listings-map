@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated August 31, 2026 | 1309 active listings across 4 companies</description>
+  <description>Updated September 01, 2026 | 1310 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -9424,7 +9424,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (116)</name>
+    <name>Sherman &amp; Hemstreet (117)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -10184,6 +10184,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.132537,33.4756829,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>442 Park West Drive</name>
+      <description><![CDATA[<b>Address:</b> 442 Park West Drive, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Medical<br/><b>Size:</b> 4,024 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=780381-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=780381-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1347036,33.4810861,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
