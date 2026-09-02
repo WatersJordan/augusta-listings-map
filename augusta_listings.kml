@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated September 01, 2026 | 1310 active listings across 4 companies</description>
+  <description>Updated September 02, 2026 | 1311 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -9424,7 +9424,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (117)</name>
+    <name>Sherman &amp; Hemstreet (118)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9532,7 +9532,7 @@
     </Placemark>
     <Placemark>
       <name>1621 15th Street</name>
-      <description><![CDATA[<b>Address:</b> 1621 15th Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 9,789 - 136,885 SF<br/><b>Agent:</b> Charles Hock, SIOR, CCIM<br/><b>Phone:</b> 706.722.8334<br/><b>Email:</b> charleswhock@aol.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1102464-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1102464-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1621 15th Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 6,732 - 136,885 SF<br/><b>Agent:</b> Charles Hock, SIOR, CCIM<br/><b>Phone:</b> 706.722.8334<br/><b>Email:</b> charleswhock@aol.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1102464-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1102464-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.99734509999999,33.4592079,0</coordinates>
@@ -9704,6 +9704,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.04152239999999,33.5091822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2620 Barton Chapel Rd</name>
+      <description><![CDATA[<b>Address:</b> 2620 Barton Chapel Rd, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 5.36 Acres<br/><b>Agent:</b> Zack Hartman<br/><b>Phone:</b> 706.922.0395<br/><b>Email:</b> zhartman@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1684164-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1684164-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0813055,33.4261391,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
