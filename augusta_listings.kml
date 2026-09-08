@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated September 04, 2026 | 1312 active listings across 4 companies</description>
+  <description>Updated September 08, 2026 | 1315 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (977)</name>
+    <name>Jordan Trotter (980)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -2643,6 +2643,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3358 Wrightsboro Rd, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 3358 Wrightsboro Rd, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 6,582 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3358-wrightsboro-rd-augusta-sale/">http://www.jordantrotter.com/properties/3358-wrightsboro-rd-augusta-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.07319690000001,33.468124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>339 Furys Ferry Road, Augusta, GA  30907</name>
       <description><![CDATA[<b>Address:</b> 339 Furys Ferry Road, Augusta, GA  30907, Augusta, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,250 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1577919-lease">http://www.jordantrotter.com/properties/?propertyId=1577919-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -3515,6 +3523,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>4074 Washington Road, Augusta, GA  30907</name>
+      <description><![CDATA[<b>Address:</b> 4074 Washington Road, Augusta, GA  30907, Augusta, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 5,000 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4074-washington-road-augusta-lease/">http://www.jordantrotter.com/properties/4074-washington-road-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1092154,33.5130415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4130 Madeline Dr, Augusta, GA  30909</name>
       <description><![CDATA[<b>Address:</b> 4130 Madeline Dr, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 3.6 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1611596-sale">http://www.jordantrotter.com/properties/?propertyId=1611596-sale</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -3788,7 +3804,7 @@
     </Placemark>
     <Placemark>
       <name>619 Broad Street, Augusta, GA  30901</name>
-      <description><![CDATA[<b>Address:</b> 619 Broad Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 2,856 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/619-Broad-Street/">http://www.jordantrotter.com/properties/619-Broad-Street/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 619 Broad Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,363 - 1,712 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/619-Broad-Street/">http://www.jordantrotter.com/properties/619-Broad-Street/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.9621521,33.4747088,0</coordinates>
@@ -7080,6 +7096,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.9245055,33.6181373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1635 Georgia Ave, North Augusta, SC  29841</name>
+      <description><![CDATA[<b>Address:</b> 1635 Georgia Ave, North Augusta, SC  29841, North Augusta, SC 29841<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 2,132 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1635-georgia-ave-north-augusta-sale/">http://www.jordantrotter.com/properties/1635-georgia-ave-north-augusta-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9600234,33.5118017,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
