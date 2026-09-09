@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated September 08, 2026 | 1315 active listings across 4 companies</description>
+  <description>Updated September 09, 2026 | 1321 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7892,7 +7892,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (194)</name>
+    <name>Meybohm (196)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8695,6 +8695,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2015 Central Ave</name>
+      <description><![CDATA[<b>Address:</b> 2015 Central Ave, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2,520 SF<br/><b>Price:</b> $399,000<br/><b>Agent:</b> George Lyles<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1686688">https://meybohmcre.com/property-search?propertyId=1686688</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.0084579,33.4693487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2041 Forward Augusta Dr</name>
       <description><![CDATA[<b>Address:</b> 2041 Forward Augusta Dr, Augusta, GA 30906<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $1,828,000<br/><b>Agent:</b> Dustin Wright, John Eckley, MBA, Civil Eng., Jonathan Aceves, CCIM, MBA<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1583954">https://meybohmcre.com/property-search?propertyId=1583954</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -8932,6 +8940,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.133657,33.476722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>519 Broad Street</name>
+      <description><![CDATA[<b>Address:</b> 519 Broad Street, Augusta, GA 30901<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 14,810 SF<br/><b>Price:</b> $950,000<br/><b>Agent:</b> George Lyles<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1654056">https://meybohmcre.com/property-search?propertyId=1654056</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.95940800000001,33.473683,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9448,7 +9464,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (119)</name>
+    <name>Sherman &amp; Hemstreet (123)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -9811,6 +9827,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3306 Old McDuffie Road</name>
+      <description><![CDATA[<b>Address:</b> 3306 Old McDuffie Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.57 Acres<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=369447-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=369447-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.08558099999999,33.43352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3328 Washington Road</name>
       <description><![CDATA[<b>Address:</b> 3328 Washington Road, Augusta, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,000 - 5,000 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=242936-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -9832,6 +9856,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.02653710000001,33.3899589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3508, 3510 &amp; 3512 Davis Drive</name>
+      <description><![CDATA[<b>Address:</b> 3508, 3510 &amp; 3512 Davis Drive, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 1.62 Acres<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1530300-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1530300-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.06444139999999,33.4086961,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -10291,6 +10323,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>207 South Belair Road</name>
+      <description><![CDATA[<b>Address:</b> 207 South Belair Road, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,250 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683908-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683908-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.1387372,33.4964509,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>234 Camilla Ave</name>
       <description><![CDATA[<b>Address:</b> 234 Camilla Ave, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Warehouse<br/><b>Size:</b> 2,275 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1201422-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1201422-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -10320,6 +10360,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.07892079999999,33.5184661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3802 Washington Road</name>
+      <description><![CDATA[<b>Address:</b> 3802 Washington Road, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,000 SF<br/><b>Agent:</b> Connie Wilson, CCIM<br/><b>Phone:</b> 706.722.8334 x202<br/><b>Email:</b> cwilson@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1605257-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1605257-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0863151,33.5126158,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
