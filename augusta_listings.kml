@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated September 11, 2026 | 1321 active listings across 4 companies</description>
+  <description>Updated September 14, 2026 | 1325 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (980)</name>
+    <name>Jordan Trotter (983)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -72,6 +72,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.6430694,33.6761683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0 Wire Road, Aiken, SC  29805</name>
+      <description><![CDATA[<b>Address:</b> 0 Wire Road, Aiken, SC  29805, Aiken, SC 29805<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 223 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/0-wire-road-aiken-sale/">http://www.jordantrotter.com/properties/0-wire-road-aiken-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.69623419999999,33.5704316,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -156,7 +164,7 @@
     </Placemark>
     <Placemark>
       <name>1026 Pine Log Road, Aiken, SC  29803</name>
-      <description><![CDATA[<b>Address:</b> 1026 Pine Log Road, Aiken, SC  29803, Aiken, SC 29803<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,600 - 43,066 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1026-pine-log-road-aiken-sc/">http://www.jordantrotter.com/properties/1026-pine-log-road-aiken-sc/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1026 Pine Log Road, Aiken, SC  29803, Aiken, SC 29803<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,400 - 43,066 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1026-pine-log-road-aiken-sc/">http://www.jordantrotter.com/properties/1026-pine-log-road-aiken-sc/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.7249216,33.5231155,0</coordinates>
@@ -1403,8 +1411,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>1736 &amp; 1738 Wylds Road, Augusta, GA  30909</name>
-      <description><![CDATA[<b>Address:</b> 1736 &amp; 1738 Wylds Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,200 SF<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/">http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/</a>]]></description>
+      <name>1736 Wylds Road, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 1736 Wylds Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,200 SF<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/">http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0732171,33.4588956,0</coordinates>
@@ -1744,6 +1752,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.9428688,33.4650943,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>212 Seventh Street, Augusta, GA  30901</name>
+      <description><![CDATA[<b>Address:</b> 212 Seventh Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,225 - 4,625 SF<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/212-seventh-street-augusta-lease/">http://www.jordantrotter.com/properties/212-seventh-street-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.963414,33.4740542,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -7890,6 +7906,14 @@
         <coordinates>-82.01649,33.0909543,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Walmart Super Center Outparcel off U.S. 25 (Hopkins Corner), Waynesboro, GA  30830</name>
+      <description><![CDATA[<b>Address:</b> Walmart Super Center Outparcel off U.S. 25 (Hopkins Corner), Waynesboro, GA  30830, Waynesboro, GA 30830<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1.6 Acres<br/><b>Agent:</b> Liam Welch<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/walmart-super-center-outparcel-off-us-25-hopkins-corner-waynesboro-sale/">http://www.jordantrotter.com/properties/walmart-super-center-outparcel-off-us-25-hopkins-corner-waynesboro-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.0237121,33.1042792,0</coordinates>
+      </Point>
+    </Placemark>
   </Folder>
   <Folder>
     <name>Meybohm (196)</name>
@@ -9464,7 +9488,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (123)</name>
+    <name>Sherman &amp; Hemstreet (124)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -10264,6 +10288,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1925006,33.4289705,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5059 Columbia Rd</name>
+      <description><![CDATA[<b>Address:</b> 5059 Columbia Rd, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 17.02 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1687752-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1687752-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.191774,33.5072789,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
