@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated September 22, 2026 | 1329 active listings across 4 companies</description>
+  <description>Updated September 23, 2026 | 1330 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -7916,7 +7916,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (197)</name>
+    <name>Meybohm (198)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -9012,6 +9012,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.9893824,33.47389190000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>961 Broad St</name>
+      <description><![CDATA[<b>Address:</b> 961 Broad St, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 7,254 SF<br/><b>Agent:</b> George Lyles<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1692005">https://meybohmcre.com/property-search?propertyId=1692005</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.96893279999999,33.4768174,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
