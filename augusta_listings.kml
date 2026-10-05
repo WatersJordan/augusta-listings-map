@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated October 02, 2026 | 1346 active listings across 4 companies</description>
+  <description>Updated October 05, 2026 | 1351 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (999)</name>
+    <name>Jordan Trotter (1003)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -2224,6 +2224,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.04235919999999,33.5093267,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2606 Lumpkin Rd, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 2606 Lumpkin Rd, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 1.35 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2606-lumpkin-rd-augusta-sale/">http://www.jordantrotter.com/properties/2606-lumpkin-rd-augusta-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.05420199999999,33.426587,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4436,7 +4444,7 @@
     </Placemark>
     <Placemark>
       <name>4435 Jefferson Davis Highway, Clearwater, SC  29842</name>
-      <description><![CDATA[<b>Address:</b> 4435 Jefferson Davis Highway, Clearwater, SC  29842, Clearwater, SC 29842<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 7,400 - 29,319 SF<br/><b>Agent:</b> Liam Welch<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4435-jefferson-davis-highway-clearwater-sc/">http://www.jordantrotter.com/properties/4435-jefferson-davis-highway-clearwater-sc/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 4435 Jefferson Davis Highway, Clearwater, SC  29842, Clearwater, SC 29842<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 2,788 - 29,319 SF<br/><b>Agent:</b> Liam Welch<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4435-jefferson-davis-highway-clearwater-sc/">http://www.jordantrotter.com/properties/4435-jefferson-davis-highway-clearwater-sc/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.8994625,33.5023929,0</coordinates>
@@ -4613,6 +4621,14 @@
     <Placemark>
       <name>770 Augusta Road, Edgefield, SC  29824</name>
       <description><![CDATA[<b>Address:</b> 770 Augusta Road, Edgefield, SC  29824, Edgefield, SC 29824<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 192,095 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/770-augusta-road-edgefield-sale/">http://www.jordantrotter.com/properties/770-augusta-road-edgefield-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9042819,33.7667197,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>778 Augusta Road, Edgefield, SC  29824</name>
+      <description><![CDATA[<b>Address:</b> 778 Augusta Road, Edgefield, SC  29824, Edgefield, SC 29824<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 125,000 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/778-augusta-road-edgefield-lease/">http://www.jordantrotter.com/properties/778-augusta-road-edgefield-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-81.9042819,33.7667197,0</coordinates>
@@ -4912,6 +4928,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.139735,33.531989,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4546 Washington Rd, Evans, GA  30809</name>
+      <description><![CDATA[<b>Address:</b> 4546 Washington Rd, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 1,950 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/4546-washington-rd-evans-lease/">http://www.jordantrotter.com/properties/4546-washington-rd-evans-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.150981,33.547362,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -7643,6 +7667,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>0 East Bypass, Thomson, GA  30824</name>
+      <description><![CDATA[<b>Address:</b> 0 East Bypass, Thomson, GA  30824, Thomson, GA 30824<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 9.15 Acres<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/0-east-bypass-thomson-sale/">http://www.jordantrotter.com/properties/0-east-bypass-thomson-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.50457329999999,33.4706927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1059 Superior Way, Thomson, GA  30824</name>
       <description><![CDATA[<b>Address:</b> 1059 Superior Way, Thomson, GA  30824, Thomson, GA 30824<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 20,000 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=914555-lease">http://www.jordantrotter.com/properties/?propertyId=914555-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -8044,7 +8076,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (198)</name>
+    <name>Meybohm (199)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8800,7 +8832,7 @@
     </Placemark>
     <Placemark>
       <name>1745 Barton Chapel Rd</name>
-      <description><![CDATA[<b>Address:</b> 1745 Barton Chapel Rd, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 2,000,000 SF<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng., Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1447508">https://meybohmcre.com/property-search?propertyId=1447508</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1745 Barton Chapel Rd, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 100,000 SF<br/><b>Agent:</b> John Eckley, MBA, Civil Eng., Jonathan Aceves, CCIM, MBA, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1447508">https://meybohmcre.com/property-search?propertyId=1447508</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.088925,33.452915,0</coordinates>
@@ -8964,6 +8996,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.0237696,33.4402256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2815 Ingleside Dr</name>
+      <description><![CDATA[<b>Address:</b> 2815 Ingleside Dr, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Mixed Use<br/><b>Size:</b> 2,800 SF<br/><b>Price:</b> $1,199,000<br/><b>Agent:</b> Jordan Collier, Will Owen, Luke Henderson<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1696968">https://meybohmcre.com/property-search?propertyId=1696968</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.03723149999999,33.4950592,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
