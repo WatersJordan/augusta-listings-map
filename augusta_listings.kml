@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated October 05, 2026 | 1351 active listings across 4 companies</description>
+  <description>Updated October 07, 2026 | 1353 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8076,7 +8076,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (199)</name>
+    <name>Meybohm (200)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -9399,6 +9399,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>3597 John Huffman Way</name>
+      <description><![CDATA[<b>Address:</b> 3597 John Huffman Way, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $235,000<br/><b>Agent:</b> Dustin Wright, Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1697625">https://meybohmcre.com/property-search?propertyId=1697625</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.1920512,33.4639233,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>4091 Jimmie Dyess Parkway</name>
       <description><![CDATA[<b>Address:</b> 4091 Jimmie Dyess Parkway, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Dustin Wright, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=1537014">https://meybohmcre.com/property-search?propertyId=1537014</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -9672,7 +9680,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (127)</name>
+    <name>Sherman &amp; Hemstreet (128)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -10156,7 +10164,7 @@
     </Placemark>
     <Placemark>
       <name>3643 Walton Way Ext Bldg 4</name>
-      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 250 - 300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3643 Walton Way Ext Bldg 4, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 250 - 500 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1294722-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0751948,33.4923394,0</coordinates>
@@ -10216,6 +10224,14 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1245289,33.4704179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4070 Jimmie Dyess Parkway</name>
+      <description><![CDATA[<b>Address:</b> 4070 Jimmie Dyess Parkway, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.67 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204747-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=204747-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.12898899999999,33.478935,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
