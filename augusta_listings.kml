@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated October 09, 2026 | 1516 active listings across 4 companies</description>
+  <description>Updated October 12, 2026 | 1518 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (1003)</name>
+    <name>Jordan Trotter (1005)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -1636,7 +1636,7 @@
     </Placemark>
     <Placemark>
       <name>2034 Broad Street, Augusta, GA  30904</name>
-      <description><![CDATA[<b>Address:</b> 2034 Broad Street, Augusta, GA  30904, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Freestanding Building<br/><b>Size:</b> 8,700 SF<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2034-Broad-Street-Augusta-GA/">http://www.jordantrotter.com/properties/2034-Broad-Street-Augusta-GA/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2034 Broad Street, Augusta, GA  30904, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Freestanding Building<br/><b>Size:</b> 8,700 SF<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2034-Broad-Street-Augusta-GA/">http://www.jordantrotter.com/properties/2034-Broad-Street-Augusta-GA/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.00078189999999,33.4866281,0</coordinates>
@@ -1708,7 +1708,7 @@
     </Placemark>
     <Placemark>
       <name>2058 Gordon Hwy, Augusta, GA  30909</name>
-      <description><![CDATA[<b>Address:</b> 2058 Gordon Hwy, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Freestanding Building<br/><b>Size:</b> 7,845 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2058-gordon-hwy-augusta-lease/">http://www.jordantrotter.com/properties/2058-gordon-hwy-augusta-lease/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2058 Gordon Hwy, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Freestanding Building<br/><b>Size:</b> 7,845 SF<br/><b>Agent:</b> Ryan Martin<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/2058-gordon-hwy-augusta-lease/">http://www.jordantrotter.com/properties/2058-gordon-hwy-augusta-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0626431,33.4510491,0</coordinates>
@@ -1856,6 +1856,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0306389,33.406334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>213 Norton Road, Augusta, GA  30906</name>
+      <description><![CDATA[<b>Address:</b> 213 Norton Road, Augusta, GA  30906, Augusta, GA 30906<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 6,400 SF<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/213-norton-road-augusta-lease/">http://www.jordantrotter.com/properties/213-norton-road-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9974156,33.4311637,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2328,6 +2336,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0294653,33.4424393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2807 Wylds Road, Augusta, GA  30909</name>
+      <description><![CDATA[<b>Address:</b> 2807 Wylds Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 55,000 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/427158-lease/">http://www.jordantrotter.com/properties/427158-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.0759513,33.4577616,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -5524,7 +5540,7 @@
     </Placemark>
     <Placemark>
       <name>000 Gateway Boulevard, Grovetown, GA  30813</name>
-      <description><![CDATA[<b>Address:</b> 000 Gateway Boulevard, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 10.94 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/000-gateway-boulevard-grovetown-sale/">http://www.jordantrotter.com/properties/000-gateway-boulevard-grovetown-sale/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 000 Gateway Boulevard, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 10.94 Acres<br/><b>Agent:</b> Robert McCrary<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/000-gateway-boulevard-grovetown-sale/">http://www.jordantrotter.com/properties/000-gateway-boulevard-grovetown-sale/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.1768688,33.4678679,0</coordinates>
@@ -5788,7 +5804,7 @@
     </Placemark>
     <Placemark>
       <name>5107 Wrightsboro Road, Grovetown, GA  30813</name>
-      <description><![CDATA[<b>Address:</b> 5107 Wrightsboro Road, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 16,000 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/5107-wrightsboro-road-grovetown-ga/">http://www.jordantrotter.com/properties/5107-wrightsboro-road-grovetown-ga/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 5107 Wrightsboro Road, Grovetown, GA  30813, Grovetown, GA 30813<br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 16,000 SF<br/><b>Agent:</b> Tripp Wilson<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/5107-wrightsboro-road-grovetown-ga/">http://www.jordantrotter.com/properties/5107-wrightsboro-road-grovetown-ga/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.1959639,33.4585499,0</coordinates>
@@ -8004,7 +8020,7 @@
     </Placemark>
     <Placemark>
       <name>1664 Sharon Rd, Washington, GA  30673</name>
-      <description><![CDATA[<b>Address:</b> 1664 Sharon Rd, Washington, GA  30673, Washington, GA 30673<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Manufacturing<br/><b>Size:</b> 86,645 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1664-sharon-rd-washington-lease/">http://www.jordantrotter.com/properties/1664-sharon-rd-washington-lease/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1664 Sharon Rd, Washington, GA  30673, Washington, GA 30673<br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Manufacturing<br/><b>Size:</b> 86,645 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1664-sharon-rd-washington-lease/">http://www.jordantrotter.com/properties/1664-sharon-rd-washington-lease/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.74907,33.703608,0</coordinates>
@@ -8012,7 +8028,7 @@
     </Placemark>
     <Placemark>
       <name>1664 Sharon Rd, Washington, GA  30673</name>
-      <description><![CDATA[<b>Address:</b> 1664 Sharon Rd, Washington, GA  30673, Washington, GA 30673<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Manufacturing<br/><b>Size:</b> 86,645 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1664-sharon-rd-washington-sale/">http://www.jordantrotter.com/properties/1664-sharon-rd-washington-sale/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1664 Sharon Rd, Washington, GA  30673, Washington, GA 30673<br/><b>Type:</b> For Sale<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Manufacturing<br/><b>Size:</b> 86,645 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1664-sharon-rd-washington-sale/">http://www.jordantrotter.com/properties/1664-sharon-rd-washington-sale/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.74907,33.703608,0</coordinates>
@@ -8840,7 +8856,7 @@
     </Placemark>
     <Placemark>
       <name>801 E Pine Log Rd.</name>
-      <description><![CDATA[<b>Address:</b> 801 E Pine Log Rd., Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $834,930<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng., Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/801-e-pine-log-rd">https://meybohmcre.com/property/801-e-pine-log-rd</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 801 E Pine Log Rd., Aiken, SC 29803<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $749,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng., Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/801-e-pine-log-rd">https://meybohmcre.com/property/801-e-pine-log-rd</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.6991539,33.5326518,0</coordinates>
@@ -12072,7 +12088,7 @@
     </Placemark>
     <Placemark>
       <name>2801 Washington Rd</name>
-      <description><![CDATA[<b>Address:</b> 2801 Washington Rd, Augusta, GA <br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Tyler.Martin@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/washington-walk/">https://www.southeastern.company/property/washington-walk/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2801 Washington Rd, Augusta, GA <br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Tyler.Martin@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/washington-walk/">https://www.southeastern.company/property/washington-walk/</a>]]></description>
       <styleUrl>#Southeastern</styleUrl>
       <Point>
         <coordinates>-82.0293563,33.511944,0</coordinates>
