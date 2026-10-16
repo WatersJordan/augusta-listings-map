@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated October 14, 2026 | 1520 active listings across 4 companies</description>
+  <description>Updated October 15, 2026 | 1521 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -8092,7 +8092,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (363)</name>
+    <name>Meybohm (364)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -9664,7 +9664,7 @@
     </Placemark>
     <Placemark>
       <name>2440 Peach Orchard Rd</name>
-      <description><![CDATA[<b>Address:</b> 2440 Peach Orchard Rd, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 12,393 SF<br/><b>Price:</b> $389,000<br/><b>Agent:</b> Travis Reed, CCIM, Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/2440-peach-orchard-rd">https://meybohmcre.com/property/2440-peach-orchard-rd</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2440 Peach Orchard Rd, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 12,393 SF<br/><b>Price:</b> $389,000<br/><b>Agent:</b> Travis Reed, CCIM, Charlie Moye, Jordan Collier<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/2440-peach-orchard-rd">https://meybohmcre.com/property/2440-peach-orchard-rd</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.014218,33.4306345,0</coordinates>
@@ -10548,6 +10548,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.17224759999999,33.5047097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5451 Harlem Grovetown Rd</name>
+      <description><![CDATA[<b>Address:</b> 5451 Harlem Grovetown Rd, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 864 SF<br/><b>Price:</b> $950,000<br/><b>Agent:</b> Dustin Wright, Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/5451-harlem-grovetown-rd">https://meybohmcre.com/property/5451-harlem-grovetown-rd</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.21663339999999,33.4532287,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -12072,7 +12080,7 @@
     </Placemark>
     <Placemark>
       <name>1832 Dixon Airline Road</name>
-      <description><![CDATA[<b>Address:</b> 1832 Dixon Airline Road, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 2 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/1832-dixon-airline-road-2/">https://www.southeastern.company/property/1832-dixon-airline-road-2/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1832 Dixon Airline Road, Augusta, GA <br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Land<br/><b>Size:</b> 2 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/1832-dixon-airline-road-2/">https://www.southeastern.company/property/1832-dixon-airline-road-2/</a>]]></description>
       <styleUrl>#Southeastern</styleUrl>
       <Point>
         <coordinates>-82.0000002,33.3835931,0</coordinates>
@@ -12112,7 +12120,7 @@
     </Placemark>
     <Placemark>
       <name>2803 Wrightsboro Rd</name>
-      <description><![CDATA[<b>Address:</b> 2803 Wrightsboro Rd, Augusta, GA <br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 16 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/daniel-village/">https://www.southeastern.company/property/daniel-village/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2803 Wrightsboro Rd, Augusta, GA <br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 16 Acres<br/><b>Agent:</b> Capabilities Development<br/><b>Email:</b> Jordan.Dyche@southeastern.company<br/><b>Listing:</b> <a href="https://www.southeastern.company/property/daniel-village/">https://www.southeastern.company/property/daniel-village/</a>]]></description>
       <styleUrl>#Southeastern</styleUrl>
       <Point>
         <coordinates>-82.0352608,33.470536,0</coordinates>
