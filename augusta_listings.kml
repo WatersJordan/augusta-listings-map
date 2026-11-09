@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Augusta CSRA Commercial Listings</name>
-  <description>Updated October 26, 2026 | 1538 active listings across 4 companies</description>
+  <description>Updated November 09, 2026 | 1550 active listings across 4 companies</description>
   <Style id="Jordan_Trotter">
     <IconStyle>
       <color>ff0000ff</color>
@@ -48,7 +48,7 @@
     </BalloonStyle>
   </Style>
   <Folder>
-    <name>Jordan Trotter (1014)</name>
+    <name>Jordan Trotter (1018)</name>
     <open>0</open>
     <Placemark>
       <name>0 E Frontage Rd, Aiken, SC  29805</name>
@@ -1099,6 +1099,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>1296 Jones St, Augusta, GA  30901</name>
+      <description><![CDATA[<b>Address:</b> 1296 Jones St, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 3,600 SF<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1296-jones-st-augusta-lease/">http://www.jordantrotter.com/properties/1296-jones-st-augusta-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.9750226,33.47904510000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1302 Broad Street, Augusta, GA  30901</name>
       <description><![CDATA[<b>Address:</b> 1302 Broad Street, Augusta, GA  30901, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 0.5 Acres<br/><b>Agent:</b> Parker Dye<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=319441-lease">http://www.jordantrotter.com/properties/?propertyId=319441-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -1468,7 +1476,7 @@
     </Placemark>
     <Placemark>
       <name>1736 Wylds Road, Augusta, GA  30909</name>
-      <description><![CDATA[<b>Address:</b> 1736 Wylds Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,200 SF<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/">http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1736 Wylds Road, Augusta, GA  30909, Augusta, GA 30909<br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Flex Space<br/><b>Size:</b> 3,200 SF<br/><b>Agent:</b> Mason Whatley<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/">http://www.jordantrotter.com/properties/1736-1738-Wylds-Road/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0732171,33.4588956,0</coordinates>
@@ -2608,6 +2616,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0470368,33.4282423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3102 Milledgeville Rd, Augusta, GA  30904</name>
+      <description><![CDATA[<b>Address:</b> 3102 Milledgeville Rd, Augusta, GA  30904, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 7,443 SF<br/><b>Agent:</b> Wil Kacos<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/3102-milledgeville-rd-augusta-sale/">http://www.jordantrotter.com/properties/3102-milledgeville-rd-augusta-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.0470682,33.4479949,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4691,6 +4707,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Vann Road, Edgefield, SC  29847</name>
+      <description><![CDATA[<b>Address:</b> Vann Road, Edgefield, SC  29847, Edgefield, SC 29847<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 30 Acres<br/><b>Agent:</b> Waters Jordan<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/vann-road-edgefield-sale/">http://www.jordantrotter.com/properties/vann-road-edgefield-sale/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-81.896163,33.6969815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>0 Evans to Locks Road, Evans, GA  30809</name>
       <description><![CDATA[<b>Address:</b> 0 Evans to Locks Road, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.145 Acres<br/><b>Agent:</b> Liam Welch<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/?propertyId=1112824-lease">http://www.jordantrotter.com/properties/?propertyId=1112824-lease</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
@@ -4848,6 +4872,14 @@
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.1916282,33.5737048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>400 Town Park Blvd, Evans, GA  30809</name>
+      <description><![CDATA[<b>Address:</b> 400 Town Park Blvd, Evans, GA  30809, Evans, GA 30809<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 3,375 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/400-town-park-blvd-evans-lease/">http://www.jordantrotter.com/properties/400-town-park-blvd-evans-lease/</a>]]></description>
+      <styleUrl>#Jordan_Trotter</styleUrl>
+      <Point>
+        <coordinates>-82.1331958,33.5287737,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -6612,7 +6644,7 @@
     </Placemark>
     <Placemark>
       <name>229 Furys Ferry Road , Martinez, GA  30907</name>
-      <description><![CDATA[<b>Address:</b> 229 Furys Ferry Road , Martinez, GA  30907, Martinez, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,400 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/">http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 229 Furys Ferry Road , Martinez, GA  30907, Martinez, GA 30907<br/><b>Type:</b> For Lease<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,400 SF<br/><b>Agent:</b> Charlie Davis<br/><b>Listing:</b> <a href="http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/">http://www.jordantrotter.com/properties/229-Furys-Ferry-Road-Martinez-GA/</a>]]></description>
       <styleUrl>#Jordan_Trotter</styleUrl>
       <Point>
         <coordinates>-82.0682991,33.5234695,0</coordinates>
@@ -8164,7 +8196,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Meybohm (371)</name>
+    <name>Meybohm (374)</name>
     <open>0</open>
     <Placemark>
       <name>00 Columbia Hwy</name>
@@ -8272,7 +8304,7 @@
     </Placemark>
     <Placemark>
       <name>000 Rutland Drive</name>
-      <description><![CDATA[<b>Address:</b> 000 Rutland Drive, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $1,451,400<br/><b>Agent:</b> Karen Daly, Travis Reed, CCIM<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/000-rutland-drive">https://meybohmcre.com/property/000-rutland-drive</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 000 Rutland Drive, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $1,550,000<br/><b>Agent:</b> Karen Daly, Travis Reed, CCIM<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/000-rutland-drive">https://meybohmcre.com/property/000-rutland-drive</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.715816,33.580675,0</coordinates>
@@ -8696,7 +8728,7 @@
     </Placemark>
     <Placemark>
       <name>302 Park Avenue Southeast</name>
-      <description><![CDATA[<b>Address:</b> 302 Park Avenue Southeast, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 8,070 SF<br/><b>Price:</b> $2,500,000<br/><b>Agent:</b> Karen Daly<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/302-park-avenue-southeast">https://meybohmcre.com/property/302-park-avenue-southeast</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 302 Park Avenue Southeast, Aiken, SC 29801<br/><b>Type:</b> For Sale<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office<br/><b>Size:</b> 8,070 SF<br/><b>Price:</b> $2,500,000<br/><b>Agent:</b> Karen Daly<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/302-park-avenue-southeast">https://meybohmcre.com/property/302-park-avenue-southeast</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.7169887,33.5579793,0</coordinates>
@@ -9271,6 +9303,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>1246 Broad St</name>
+      <description><![CDATA[<b>Address:</b> 1246 Broad St, Augusta, GA 30901<br/><b>Type:</b> For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 15,400 SF<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng., Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/1246-broad-st">https://meybohmcre.com/property/1246-broad-st</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-81.9739786,33.4777685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>1345 Druid Park Ave</name>
       <description><![CDATA[<b>Address:</b> 1345 Druid Park Ave, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office<br/><b>Size:</b> 2,018 SF<br/><b>Price:</b> $225,000<br/><b>Agent:</b> Matt Rogers<br/><b>Listing:</b> <a href="https://meybohmcre.com/property-search?propertyId=880473">https://meybohmcre.com/property-search?propertyId=880473</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
@@ -9496,7 +9536,7 @@
     </Placemark>
     <Placemark>
       <name>1706 Magnolia Way</name>
-      <description><![CDATA[<b>Address:</b> 1706 Magnolia Way, Augusta, GA 30909<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 30,512 SF<br/><b>Price:</b> $6,500,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Jordan Collier, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/1706-magnolia-way">https://meybohmcre.com/property/1706-magnolia-way</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1706 Magnolia Way, Augusta, GA 30909<br/><b>Type:</b> For Sale / For Lease<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 30,512 SF<br/><b>Price:</b> $5,900,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, Jordan Collier, Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/1706-magnolia-way">https://meybohmcre.com/property/1706-magnolia-way</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.1275849,33.4766321,0</coordinates>
@@ -9728,7 +9768,7 @@
     </Placemark>
     <Placemark>
       <name>2364 Gordon Hwy</name>
-      <description><![CDATA[<b>Address:</b> 2364 Gordon Hwy, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 1,400 SF<br/><b>Price:</b> $739,000<br/><b>Agent:</b> Charlie Moye, George Lyles<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/2364-gordon-hwy">https://meybohmcre.com/property/2364-gordon-hwy</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2364 Gordon Hwy, Augusta, GA 30909<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 1,400 SF<br/><b>Price:</b> $699,000<br/><b>Agent:</b> Charlie Moye, George Lyles<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/2364-gordon-hwy">https://meybohmcre.com/property/2364-gordon-hwy</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.09943349999999,33.4425536,0</coordinates>
@@ -9748,6 +9788,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.0538998,33.3741704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2407 Old Savannah Rd</name>
+      <description><![CDATA[<b>Address:</b> 2407 Old Savannah Rd, Augusta, GA 30906<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Price:</b> $199,000<br/><b>Agent:</b> Dustin Wright, Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng.<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/2407-old-savannah-rd">https://meybohmcre.com/property/2407-old-savannah-rd</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.00652099999999,33.431139,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -9920,7 +9968,7 @@
     </Placemark>
     <Placemark>
       <name>305 Eighth St.</name>
-      <description><![CDATA[<b>Address:</b> 305 Eighth St., Augusta, GA 30901<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 23,664 SF<br/><b>Price:</b> $1,200,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng., Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/305-eighth-st-for-sale">https://meybohmcre.com/property/305-eighth-st-for-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 305 Eighth St., Augusta, GA 30901<br/><b>Type:</b> For Sale<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 23,664 SF<br/><b>Price:</b> $1,200,000<br/><b>Agent:</b> Jonathan Aceves, CCIM, MBA, John Eckley, MBA, Civil Eng., Dustin Wright<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/305-eighth-st-for-sale">https://meybohmcre.com/property/305-eighth-st-for-sale</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-81.9663089,33.4741392,0</coordinates>
@@ -10188,6 +10236,14 @@
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.038753,33.48431000000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>823 Russell St</name>
+      <description><![CDATA[<b>Address:</b> 823 Russell St, Augusta, GA 30904<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 2,505 SF<br/><b>Price:</b> $360,000<br/><b>Agent:</b> Dustin Wright, George Lyles<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/823-russell-st">https://meybohmcre.com/property/823-russell-st</a>]]></description>
+      <styleUrl>#Meybohm</styleUrl>
+      <Point>
+        <coordinates>-82.0060106,33.4763293,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -10664,7 +10720,7 @@
     </Placemark>
     <Placemark>
       <name>4830 Columbia Rd</name>
-      <description><![CDATA[<b>Address:</b> 4830 Columbia Rd, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 1,008 SF<br/><b>Price:</b> $329,000<br/><b>Agent:</b> Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/4830-columbia-rd">https://meybohmcre.com/property/4830-columbia-rd</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 4830 Columbia Rd, Grovetown, GA 30813<br/><b>Type:</b> For Sale<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 1,008 SF<br/><b>Price:</b> $329,000<br/><b>Agent:</b> Charlie Moye<br/><b>Listing:</b> <a href="https://meybohmcre.com/property/4830-columbia-rd">https://meybohmcre.com/property/4830-columbia-rd</a>]]></description>
       <styleUrl>#Meybohm</styleUrl>
       <Point>
         <coordinates>-82.17224759999999,33.5047097,0</coordinates>
@@ -11136,7 +11192,7 @@
     </Placemark>
   </Folder>
   <Folder>
-    <name>Sherman &amp; Hemstreet (131)</name>
+    <name>Sherman &amp; Hemstreet (136)</name>
     <open>0</open>
     <Placemark>
       <name>1640 Columbia Hwy N</name>
@@ -11156,7 +11212,7 @@
     </Placemark>
     <Placemark>
       <name>Physicians Drive </name>
-      <description><![CDATA[<b>Address:</b> Physicians Drive , Aiken, SC 29801<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office<br/><b>Size:</b> 0.8 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=265637-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=265637-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> Physicians Drive , Aiken, SC 29801<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 0.8 Acres<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=265637-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=265637-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.762697,33.57141,0</coordinates>
@@ -11164,7 +11220,7 @@
     </Placemark>
     <Placemark>
       <name>1002 Telfair St</name>
-      <description><![CDATA[<b>Address:</b> 1002 Telfair St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 23,638 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1002 Telfair St, Augusta, GA 30901<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 23,638 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9718966,33.472993,0</coordinates>
@@ -11172,7 +11228,7 @@
     </Placemark>
     <Placemark>
       <name>1002 Telfair St</name>
-      <description><![CDATA[<b>Address:</b> 1002 Telfair St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 12,348 - 23,638 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1002 Telfair St, Augusta, GA 30901<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 12,348 - 23,638 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1526322-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9718966,33.472993,0</coordinates>
@@ -11212,7 +11268,7 @@
     </Placemark>
     <Placemark>
       <name>1201 George C Wilson Dr</name>
-      <description><![CDATA[<b>Address:</b> 1201 George C Wilson Dr, Augusta, GA 30909<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 800 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1643188-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1643188-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1201 George C Wilson Dr, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 800 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1643188-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1643188-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0877836,33.4817242,0</coordinates>
@@ -11276,7 +11332,7 @@
     </Placemark>
     <Placemark>
       <name>1711 Hicks St</name>
-      <description><![CDATA[<b>Address:</b> 1711 Hicks St, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 0.52 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1435511-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1435511-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1711 Hicks St, Augusta, GA 30904<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 0.52 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1435511-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1435511-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.992589,33.48145100000001,0</coordinates>
@@ -11300,7 +11356,7 @@
     </Placemark>
     <Placemark>
       <name>1749 Gordon Highway</name>
-      <description><![CDATA[<b>Address:</b> 1749 Gordon Highway, Augusta, GA 30904<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 4,405 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=349010-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=349010-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 1749 Gordon Highway, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 4,405 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=349010-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=349010-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.02860199999999,33.443474,0</coordinates>
@@ -11312,6 +11368,22 @@
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.03021559999999,33.443535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1768 Gordon Highway</name>
+      <description><![CDATA[<b>Address:</b> 1768 Gordon Highway, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Street Retail<br/><b>Size:</b> 11,250 SF<br/><b>Agent:</b> Matt Aitken<br/><b>Phone:</b> 706.288.1079 x314<br/><b>Email:</b> maitken@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1713520-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1713520-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.0315416,33.4454384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1902 Sibley Rd, 3203, 3211, 3217 Clarence Dr.</name>
+      <description><![CDATA[<b>Address:</b> 1902 Sibley Rd, 3203, 3211, 3217 Clarence Dr., Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Multifamily<br/><b>Size:</b> 13.97 Acres<br/><b>Agent:</b> Matt Aitken<br/><b>Phone:</b> 706.288.1079 x314<br/><b>Email:</b> maitken@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1584223-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1584223-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.05815,33.462085,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -11332,7 +11404,7 @@
     </Placemark>
     <Placemark>
       <name>2215 Tobacco Road</name>
-      <description><![CDATA[<b>Address:</b> 2215 Tobacco Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 2,700 - 40,990 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2215 Tobacco Road, Augusta, GA 30906<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 2,700 - 40,990 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1632921-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0326169,33.374735,0</coordinates>
@@ -11380,7 +11452,7 @@
     </Placemark>
     <Placemark>
       <name>2403 Milledgeville Rd</name>
-      <description><![CDATA[<b>Address:</b> 2403 Milledgeville Rd, Augusta, GA 30906<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 5,739 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1028042-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1028042-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2403 Milledgeville Rd, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Warehouse/Distribution<br/><b>Size:</b> 5,739 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1028042-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1028042-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0118042,33.4471555,0</coordinates>
@@ -11404,7 +11476,7 @@
     </Placemark>
     <Placemark>
       <name>2601 Deans Bridge Road</name>
-      <description><![CDATA[<b>Address:</b> 2601 Deans Bridge Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 2,800 - 3,000 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1651596-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1651596-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2601 Deans Bridge Road, Augusta, GA 30906<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 2,800 - 3,000 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1651596-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1651596-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0204751,33.44233000000001,0</coordinates>
@@ -11420,7 +11492,7 @@
     </Placemark>
     <Placemark>
       <name>2608 Commons Boulevard</name>
-      <description><![CDATA[<b>Address:</b> 2608 Commons Boulevard, Augusta, GA 30909<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,015 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1076623-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1076623-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2608 Commons Boulevard, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,015 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1076623-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1076623-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.04152239999999,33.5091822,0</coordinates>
@@ -11436,7 +11508,7 @@
     </Placemark>
     <Placemark>
       <name>2631 Tobacco Road</name>
-      <description><![CDATA[<b>Address:</b> 2631 Tobacco Road, Augusta, GA 30904<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 60 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320030-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320030-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 2631 Tobacco Road, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Residential<br/><b>Size:</b> 60 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320030-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1320030-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.08878299999999,33.382936,0</coordinates>
@@ -11475,6 +11547,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2820 Milledgeville Rd</name>
+      <description><![CDATA[<b>Address:</b> 2820 Milledgeville Rd, Augusta, GA 30904<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 1.64 Acres<br/><b>Agent:</b> Matt Aitken<br/><b>Phone:</b> 706.288.1079 x314<br/><b>Email:</b> maitken@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1710830-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1710830-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.03210299999999,33.447074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>304 Golden Camp Road</name>
       <description><![CDATA[<b>Address:</b> 304 Golden Camp Road, Augusta, GA 30906<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Showroom<br/><b>Size:</b> 1,374 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=845946-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=845946-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
@@ -11492,7 +11572,15 @@
     </Placemark>
     <Placemark>
       <name>3059 Deans Bridge Road</name>
-      <description><![CDATA[<b>Address:</b> 3059 Deans Bridge Road, Augusta, GA 30906<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Free Standing Building<br/><b>Size:</b> 3,240 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=566380-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=566380-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3059 Deans Bridge Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Freestanding Building<br/><b>Size:</b> 3,240 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=566380-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=566380-sale</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.04886499999999,33.4282409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3059 Deans Bridge Road</name>
+      <description><![CDATA[<b>Address:</b> 3059 Deans Bridge Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Freestanding Building<br/><b>Size:</b> 3,240 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=566380-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=566380-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.04886499999999,33.4282409,0</coordinates>
@@ -11540,7 +11628,7 @@
     </Placemark>
     <Placemark>
       <name>3452 Peach Orchard Road</name>
-      <description><![CDATA[<b>Address:</b> 3452 Peach Orchard Road, Augusta, GA 30906<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 990 - 3,600 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=240639-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=240639-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3452 Peach Orchard Road, Augusta, GA 30906<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 990 - 3,600 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=240639-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=240639-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.02653710000001,33.3899589,0</coordinates>
@@ -11564,7 +11652,7 @@
     </Placemark>
     <Placemark>
       <name>3540 Wheeler Rd Suite 617</name>
-      <description><![CDATA[<b>Address:</b> 3540 Wheeler Rd Suite 617, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,070 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682281-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682281-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Rd Suite 617, Augusta, GA 30909<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,070 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682281-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682281-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0784721,33.4842318,0</coordinates>
@@ -11580,15 +11668,23 @@
     </Placemark>
     <Placemark>
       <name>3540 Wheeler Rd Suite 619</name>
-      <description><![CDATA[<b>Address:</b> 3540 Wheeler Rd Suite 619, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 660 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682856-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682856-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Rd Suite 619, Augusta, GA 30909<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 660 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682856-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682856-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0790834,33.4842378,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
+      <name>3540 Wheeler Road Suite 116</name>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Road Suite 116, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 734 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1711417-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1711417-lease</a>]]></description>
+      <styleUrl>#Sherman_and_Hemstreet</styleUrl>
+      <Point>
+        <coordinates>-82.076756,33.4850769,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>3540 Wheeler Road Suite 316</name>
-      <description><![CDATA[<b>Address:</b> 3540 Wheeler Road Suite 316, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 734 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3540 Wheeler Road Suite 316, Augusta, GA 30909<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 734 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=910776-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0776235,33.4846814,0</coordinates>
@@ -11628,7 +11724,7 @@
     </Placemark>
     <Placemark>
       <name>3614 B J Dewey Gray Circle</name>
-      <description><![CDATA[<b>Address:</b> 3614 B J Dewey Gray Circle, Augusta, GA 30909<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,100 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1690272-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1690272-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3614 B J Dewey Gray Circle, Augusta, GA 30909<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 2,100 SF<br/><b>Agent:</b> Chris Farrow<br/><b>Phone:</b> 706.288.1076<br/><b>Email:</b> cfarrow@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1690272-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1690272-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0962409,33.4855239,0</coordinates>
@@ -11668,7 +11764,7 @@
     </Placemark>
     <Placemark>
       <name>3827 Washington Road</name>
-      <description><![CDATA[<b>Address:</b> 3827 Washington Road, Augusta, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.9 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1405065-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1405065-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3827 Washington Road, Augusta, GA 30907<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 0.9 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1405065-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1405065-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0896491,33.5126413,0</coordinates>
@@ -11708,7 +11804,7 @@
     </Placemark>
     <Placemark>
       <name>415 Laney Walker Boulevard Ext</name>
-      <description><![CDATA[<b>Address:</b> 415 Laney Walker Boulevard Ext, Augusta, GA 30901<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 17.14 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 415 Laney Walker Boulevard Ext, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Industrial<br/><b>Size:</b> 17.14 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1265711-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9455799,33.4554444,0</coordinates>
@@ -11724,7 +11820,7 @@
     </Placemark>
     <Placemark>
       <name>429 Walker St</name>
-      <description><![CDATA[<b>Address:</b> 429 Walker St, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 12,237 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1661952-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1661952-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 429 Walker St, Augusta, GA 30901<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 12,237 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1661952-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1661952-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9599681,33.4687479,0</coordinates>
@@ -11732,7 +11828,7 @@
     </Placemark>
     <Placemark>
       <name>429 Walker Street</name>
-      <description><![CDATA[<b>Address:</b> 429 Walker Street, Augusta, GA 30901<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 130 - 744 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=821036-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=821036-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 429 Walker Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 130 - 744 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=821036-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=821036-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9599381,33.4687452,0</coordinates>
@@ -11780,7 +11876,7 @@
     </Placemark>
     <Placemark>
       <name>630 Ellis Street</name>
-      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 75 - 2,451 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 630 Ellis Street, Augusta, GA 30901<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 75 - 2,451 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=364586-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9636988,33.4732546,0</coordinates>
@@ -11868,7 +11964,7 @@
     </Placemark>
     <Placemark>
       <name>3921 Evans To Locks Rd</name>
-      <description><![CDATA[<b>Address:</b> 3921 Evans To Locks Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 11.37 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1474994-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1474994-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3921 Evans To Locks Rd, Evans, GA 30809<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 11.37 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1474994-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1474994-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.092501,33.551241,0</coordinates>
@@ -11884,7 +11980,7 @@
     </Placemark>
     <Placemark>
       <name>413 N Belair Rd</name>
-      <description><![CDATA[<b>Address:</b> 413 N Belair Rd, Evans, GA 30809<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office<br/><b>Size:</b> 11.68 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1479738-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1479738-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 413 N Belair Rd, Evans, GA 30809<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office<br/><b>Size:</b> 11.68 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1479738-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1479738-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1336319,33.5273341,0</coordinates>
@@ -11980,7 +12076,7 @@
     </Placemark>
     <Placemark>
       <name>5025 Parham Rd</name>
-      <description><![CDATA[<b>Address:</b> 5025 Parham Rd, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 200 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1618959-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1618959-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 5025 Parham Rd, Grovetown, GA 30813<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Executive Suites<br/><b>Size:</b> 200 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1618959-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1618959-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1925006,33.4289705,0</coordinates>
@@ -11988,7 +12084,7 @@
     </Placemark>
     <Placemark>
       <name>5059 Columbia Rd</name>
-      <description><![CDATA[<b>Address:</b> 5059 Columbia Rd, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 17.02 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1687752-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1687752-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 5059 Columbia Rd, Grovetown, GA 30813<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 17.02 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1687752-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1687752-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.191774,33.5072789,0</coordinates>
@@ -11996,7 +12092,7 @@
     </Placemark>
     <Placemark>
       <name>5149 Columbia Road</name>
-      <description><![CDATA[<b>Address:</b> 5149 Columbia Road, Grovetown, GA 30813<br/><b>Status:</b> Active<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2.5 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683068-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683068-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 5149 Columbia Road, Grovetown, GA 30813<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Retail<br/><b>Size:</b> 2.5 Acres<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683068-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1683068-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.1994043,33.5079719,0</coordinates>
@@ -12044,7 +12140,7 @@
     </Placemark>
     <Placemark>
       <name>106 Davis Road</name>
-      <description><![CDATA[<b>Address:</b> 106 Davis Road, Martinez, GA 30907<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 1,050 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1126235-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1126235-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 106 Davis Road, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Strip Center<br/><b>Size:</b> 4,234 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1126235-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1126235-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0848431,33.5123972,0</coordinates>
@@ -12100,7 +12196,7 @@
     </Placemark>
     <Placemark>
       <name>3821 Washington Rd</name>
-      <description><![CDATA[<b>Address:</b> 3821 Washington Rd, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 1,300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682311-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682311-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 3821 Washington Rd, Martinez, GA 30907<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Neighborhood Center<br/><b>Size:</b> 1,300 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682311-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1682311-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.0888061,33.512735,0</coordinates>
@@ -12116,7 +12212,7 @@
     </Placemark>
     <Placemark>
       <name>4416 Columbia Road</name>
-      <description><![CDATA[<b>Address:</b> 4416 Columbia Road, Martinez, GA 30907<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,200 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=766783-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=766783-lease</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 4416 Columbia Road, Martinez, GA 30907<br/><b>Status:</b> Active<br/><b>Property Type:</b> Office Building<br/><b>Size:</b> 1,200 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=766783-lease">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=766783-lease</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-82.13288229999999,33.507186,0</coordinates>
@@ -12156,7 +12252,7 @@
     </Placemark>
     <Placemark>
       <name>340 Edgefield Rd</name>
-      <description><![CDATA[<b>Address:</b> 340 Edgefield Rd, North Augusta, SC 29841<br/><b>Status:</b> Active<br/><b>Property Type:</b> Restaurant<br/><b>Size:</b> 3,706 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1456480-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1456480-sale</a>]]></description>
+      <description><![CDATA[<b>Address:</b> 340 Edgefield Rd, North Augusta, SC 29841<br/><b>Status:</b> inactive<br/><b>Property Type:</b> Restaurant<br/><b>Size:</b> 3,706 SF<br/><b>Agent:</b> Joe Edge, SIOR, CCIM<br/><b>Phone:</b> 706.288.1077<br/><b>Email:</b> jedge@shermanandhemstreet.com<br/><b>Listing:</b> <a href="https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1456480-sale">https://www.shermanandhemstreet.com/property-search/commercial-property-search/commercial-property-details/?propertyId=1456480-sale</a>]]></description>
       <styleUrl>#Sherman_and_Hemstreet</styleUrl>
       <Point>
         <coordinates>-81.9456196,33.5313014,0</coordinates>
